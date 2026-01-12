@@ -11,4 +11,5 @@
   <img src="setup_images/09-GARUDA_2026-01-12_19-14-18_2d439.png" width="500" title="GARUDA – 07 July 2025" alt="GARUDA – 07 July 2025" />
   <img src="setup_images/10-IMFA_2026-01-12_19-33-56_88b25.png" width="500" title="IMFA – 01 August 2025" alt="IMFA – 01 August 2025" />
   <img src="setup_images/11-SVLL_2026-01-12_20-39-07_bc59e.png" width="500" title="SVLL – 09 May 2025" alt="SVLL – 09 May 2025" />
+  <img src="setup_images/12-MANAKCOAT_2026-01-12_20-43-27_96518.png" width="500" title="MANAKCOAT – 20 May 2025" alt="MANAKCOAT – 20 May 2025" />
 </p>
