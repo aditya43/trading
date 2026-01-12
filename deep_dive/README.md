@@ -1,0 +1,2 @@
+# VCP setups
+![IZMO 20 August 2025](01 - IZMO_2026-01-12_13-23-32_82118.png)
