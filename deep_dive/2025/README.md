@@ -19,4 +19,5 @@
   <img src="setup_images/17-LGBBROSLTD_2026-01-12_21-47-40_1eccc.png" width="500" title="LGBBROSLTD – 23 October 2025" alt="LGBBROSLTD – 23 October 2025" />
   <img src="setup_images/18-SHARDACROP_2026-01-12_21-52-45_e41dd.png" width="500" title="SHARDACROP – 16 July 2025" alt="SHARDACROP – 16 July 2025" />
   <img src="setup_images/19-PARADEEP_2026-01-12_21-56-22_aac59.png" width="500" title="PARADEEP – 10 July 2025" alt="PARADEEP – 10 July 2025" />
+  <img src="setup_images/20-SYRMA_2026-01-12_21-58-53_80ab8.png" width="500" title="SYRMA – 26 June 2025" alt="SYRMA – 26 June 2025" />
 </p>
