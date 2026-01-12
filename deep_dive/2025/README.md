@@ -1,4 +1,4 @@
-# Setups Deep Dive
+# 2025 Deep Dive - Setups: Episodic Pivots (EP), Flags, Pullbacks, Medium Term Base Breakouts, Shakeouts
 <p float="left">
   <img src="setup_images/01-IZMO_2026-01-12_13-23-32_82118.png" width="500" title="IZMO – 20 August 2025" alt="IZMO – 20 August 2025" />
   <img src="setup_images/02-CUPID_2026-01-12_13-31-13_b978a.png" width="500" title="CUPID – 09 July 2025" alt="CUPID – 09 July 2025" />
@@ -10,4 +10,5 @@
   <img src="setup_images/08-OCCLLTD_2026-01-12_19-11-06_6a6f3.png" width="500" title="OCCLLTD – 2025-05-23" alt="OCCLLTD – 2025-05-23" />
   <img src="setup_images/09-GARUDA_2026-01-12_19-14-18_2d439.png" width="500" title="GARUDA – 07 July 2025" alt="GARUDA – 07 July 2025" />
   <img src="setup_images/10-IMFA_2026-01-12_19-33-56_88b25.png" width="500" title="IMFA – 01 August 2025" alt="IMFA – 01 August 2025" />
+  <img src="setup_images/11-SVLL_2026-01-12_20-39-07_bc59e.png" width="500" title="SVLL – 09 May 2025" alt="SVLL – 09 May 2025" />
 </p>
