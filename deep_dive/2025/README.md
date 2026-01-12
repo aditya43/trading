@@ -13,4 +13,5 @@
   <img src="setup_images/11-SVLL_2026-01-12_20-39-07_bc59e.png" width="500" title="SVLL – 09 May 2025" alt="SVLL – 09 May 2025" />
   <img src="setup_images/12-MANAKCOAT_2026-01-12_20-43-27_96518.png" width="500" title="MANAKCOAT – 20 May 2025" alt="MANAKCOAT – 20 May 2025" />
   <img src="setup_images/13-JPPOWER_2026-01-12_20-49-06_62edb.png" width="500" title="JPPOWER – 27 June 2025" alt="JPPOWER – 27 June 2025" />
+  <img src="setup_images/14-ARSSBL_2026-01-12_21-03-03_8bd9a.png" width="500" title="ARSSBL – 30 October 2025" alt="ARSSBL – 30 October 2025" />
 </p>
