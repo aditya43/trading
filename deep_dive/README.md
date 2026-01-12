@@ -1,2 +1,3 @@
 # VCP setups
 ![IZMO 20 August 2025](01-IZMO_2026-01-12_13-23-32_82118.png)
+![Cupid 09 July 2025](02-CUPID_2026-01-12_13-31-13_b978a.png)
