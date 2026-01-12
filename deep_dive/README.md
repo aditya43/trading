@@ -5,4 +5,5 @@
   <img src="setup_images/03-NETWEB_2026-01-12_13-42-51_8270b.png" width="500" title="NETWEB – 02 September 2025" alt="NETWEB – 02 September 2025" />
   <img src="setup_images/04-SUVEN_2026-01-12_13-53-31_cf937.png" width="500" title="SUVEN – 06 May 2025" alt="SUVEN – 06 May 2025" />
   <img src="setup_images/05-LLOYDSENT_2026-01-12_14-42-40_17c2f.png" width="500" title="LLOYDSENT – 23 May 2025" alt="LLOYDSENT – 23 May 2025" />
+  <img src="setup_images/06-NACLIND_2026-01-12_14-47-05_2bbcd.png" width="500" title="NACLIND – 24 June 2025" alt="NACLIND – 24 June 2025" />
 </p>
