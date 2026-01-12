@@ -15,4 +15,5 @@
   <img src="setup_images/13-JPPOWER_2026-01-12_20-49-06_62edb.png" width="500" title="JPPOWER – 27 June 2025" alt="JPPOWER – 27 June 2025" />
   <img src="setup_images/14-ARSSBL_2026-01-12_21-03-03_8bd9a.png" width="500" title="ARSSBL – 30 October 2025" alt="ARSSBL – 30 October 2025" />
   <img src="setup_images/15-RPEL_2026-01-12_21-07-56_eb6a7.png" width="500" title="RPEL – 23 October 2025" alt="RPEL – 23 October 2025" />
+  <img src="setup_images/16-ASHAPURMIN_2026-01-12_21-11-15_cab35.png" width="500" title="ASHAPURMIN – 19 June 2025" alt="ASHAPURMIN – 19 June 2025" />
 </p>
