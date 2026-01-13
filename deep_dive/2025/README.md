@@ -53,4 +53,5 @@
   <img src="setup_images/50-ZOTA_2026-01-13_19-39-30_34a8c.png" width="500" title="ZOTA – 02 January 2025" alt="ZOTA – 02 January 2025" />
   <img src="setup_images/51-PENIND_2026-01-13_21-48-08_32606.png" width="500" title="PENIND – 16 May 2025" alt="PENIND – 16 May 2025" />
   <img src="setup_images/52-JAGSNPHARM_2026-01-13_21-55-29_fe45b.png" width="500" title="JAGSNPHARM – 07 July 2025" alt="JAGSNPHARM – 07 July 2025" />
+  <img src="setup_images/53-SUBROS_2026-01-13_22-25-44_fc56e.png" width="500" title="SUBROS – 15 September 2025" alt="SUBROS – 15 September 2025" />
 </p>
