@@ -43,4 +43,6 @@
   <img src="setup_images/40-GINNIFILA_2026-01-13_18-26-59_2f397.png" width="500" title="GINNIFILA – 28 May 2025" alt="GINNIFILA – 28 May 2025" />
   <img src="setup_images/41-KINGFA_2026-01-13_18-32-50_a280c.png" width="500" title="KINGFA – 05 August 2025" alt="KINGFA – 05 August 2025" />
   <img src="setup_images/42-FAZE3Q_2026-01-13_18-35-36_8f3a3.png" width="500" title="FAZE3Q – 05 May 2025" alt="FAZE3Q – 05 May 2025" />
+  <img src="setup_images/43-GRMOVER_2026-01-13_18-40-01_242b9.png" width="500" title="GRMOVER – 06 June 2025" alt="GRMOVER – 06 June 2025" />
+  <img src="setup_images/44-UNIPARTS_2026-01-13_18-43-55_5ede7.png" width="500" title="UNIPARTS – 30 September 2025" alt="UNIPARTS – 30 September 2025" />
 </p>
