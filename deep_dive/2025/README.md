@@ -29,4 +29,5 @@
   <img src="setup_images/27-JINDALPHOT_2026-01-13_12-55-20_827d5.png" width="500" title="JINDALPHOT – 01 October 2025" alt="JINDALPHOT – 01 October 2025" />
   <img src="setup_images/28-CHENNPETRO_2026-01-13_13-01-37_756bd.png" width="500" title="CHENNPETRO – 24 October 2025" alt="CHENNPETRO – 24 October 2025" />
   <img src="setup_images/29-JGCHEM_2026-01-13_13-04-55_a0844.png" width="500" title="JGCHEM – 24 June 2025" alt="JGCHEM – 24 June 2025" />
+  <img src="setup_images/30-PFOCUS_2026-01-13_13-15-12_83380.png" width="500" title="PFOCUS – 03 September 2025" alt="PFOCUS – 03 September 2025" />
 </p>
