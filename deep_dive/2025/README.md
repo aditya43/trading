@@ -23,4 +23,5 @@
   <img src="setup_images/21-LORDSCHLO_2026-01-13_12-13-54_51bdb.png" width="500" title="LORDSCHLO – 09 July 2025" alt="LORDSCHLO – 09 July 2025" />
   <img src="setup_images/22-AVANTEL_2026-01-13_12-16-52_7f571.png" width="500" title="AVANTEL – 23 May 2025" alt="AVANTEL – 23 May 2025" />
   <img src="setup_images/23-ATHERENERG_2026-01-13_12-33-36_1c711.png" width="500" title="ATHERENERG – 25 August 2025" alt="ATHERENERG – 25 August 2025" />
+  <img src="setup_images/24-KIOCL_2026-01-13_12-37-48_d3389.png" width="500" title="KIOCL – 01 October 2025" alt="KIOCL – 01 October 2025" />
 </p>
