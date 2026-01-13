@@ -50,4 +50,5 @@
   <img src="setup_images/47-COCHINSHIP_2026-01-13_19-11-02_df923.png" width="500" title="COCHINSHIP – 26 May 2025" alt="COCHINSHIP – 26 May 2025" />
   <img src="setup_images/48-GARUDA_2026-01-13_19-14-17_11588.png" width="500" title="GARUDA – 12 August 2025" alt="GARUDA – 12 August 2025" />
   <img src="setup_images/49-QPOWER_2026-01-13_19-27-44_393a9.png" width="500" title="QPOWER – 01 September 2025" alt="QPOWER – 01 September 2025" />
+  <img src="setup_images/50-ZOTA_2026-01-13_19-39-30_34a8c.png" width="500" title="ZOTA – 02 January 2025" alt="ZOTA – 02 January 2025" />
 </p>
