@@ -27,4 +27,5 @@
   <img src="setup_images/25-RACLGEAR_2026-01-13_12-41-51_e4d14.png" width="500" title="RACLGEAR – 24 September 2025" alt="RACLGEAR – 24 September 2025" />
   <img src="setup_images/26-IXIGO_2026-01-13_12-47-45_02261.png" width="500" title="IXIGO – 08 July 2025" alt="IXIGO – 08 July 2025" />
   <img src="setup_images/27-JINDALPHOT_2026-01-13_12-55-20_827d5.png" width="500" title="JINDALPHOT – 01 October 2025" alt="JINDALPHOT – 01 October 2025" />
+  <img src="setup_images/28-CHENNPETRO_2026-01-13_13-01-37_756bd.png" width="500" title="CHENNPETRO – 24 October 2025" alt="CHENNPETRO – 24 October 2025" />
 </p>
