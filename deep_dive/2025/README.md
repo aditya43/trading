@@ -32,4 +32,5 @@
   <img src="setup_images/30-PFOCUS_2026-01-13_13-15-12_83380.png" width="500" title="PFOCUS – 03 September 2025" alt="PFOCUS – 03 September 2025" />
   <img src="setup_images/31-SANDUMA_2026-01-13_13-26-58_48767.png" width="500" title="SANDUMA – 01 October 2025" alt="SANDUMA – 01 October 2025" />
   <img src="setup_images/32-MCLOUD_2026-01-13_13-35-02_5d4b9.png" width="500" title="MCLOUD – 04 July 2025" alt="MCLOUD – 04 July 2025" />
+  <img src="setup_images/33-INDIAGLYCO_2026-01-13_13-43-38_be18a.png" width="500" title="INDIAGLYCO – 06 May 2025" alt="INDIAGLYCO – 06 May 2025" />
 </p>
