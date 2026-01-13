@@ -49,4 +49,5 @@
   <img src="setup_images/46-KITEX_2026-01-13_18-55-42_28679.png" width="500" title="KITEX – 07 May 2025" alt="KITEX – 07 May 2025" />
   <img src="setup_images/47-COCHINSHIP_2026-01-13_19-11-02_df923.png" width="500" title="COCHINSHIP – 26 May 2025" alt="COCHINSHIP – 26 May 2025" />
   <img src="setup_images/48-GARUDA_2026-01-13_19-14-17_11588.png" width="500" title="GARUDA – 12 August 2025" alt="GARUDA – 12 August 2025" />
+  <img src="setup_images/49-QPOWER_2026-01-13_19-27-44_393a9.png" width="500" title="QPOWER – 01 September 2025" alt="QPOWER – 01 September 2025" />
 </p>
