@@ -42,4 +42,5 @@
   <img src="setup_images/39-KHAICHEM_2026-01-13_18-23-30_4b105.png" width="500" title="KHAICHEM – 26 June 2025" alt="KHAICHEM – 26 June 2025" />
   <img src="setup_images/40-GINNIFILA_2026-01-13_18-26-59_2f397.png" width="500" title="GINNIFILA – 28 May 2025" alt="GINNIFILA – 28 May 2025" />
   <img src="setup_images/41-KINGFA_2026-01-13_18-32-50_a280c.png" width="500" title="KINGFA – 05 August 2025" alt="KINGFA – 05 August 2025" />
+  <img src="setup_images/42-FAZE3Q_2026-01-13_18-35-36_8f3a3.png" width="500" title="FAZE3Q – 05 May 2025" alt="FAZE3Q – 05 May 2025" />
 </p>
