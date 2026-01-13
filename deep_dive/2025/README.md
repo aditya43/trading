@@ -46,4 +46,5 @@
   <img src="setup_images/43-GRMOVER_2026-01-13_18-40-01_242b9.png" width="500" title="GRMOVER – 06 June 2025" alt="GRMOVER – 06 June 2025" />
   <img src="setup_images/44-UNIPARTS_2026-01-13_18-43-55_5ede7.png" width="500" title="UNIPARTS – 30 September 2025" alt="UNIPARTS – 30 September 2025" />
   <img src="setup_images/45-GOLDIAM_2026-01-13_18-50-52_d0c40.png" width="500" title="GOLDIAM – 06 January 2025" alt="GOLDIAM – 06 January 2025" />
+  <img src="setup_images/46-KITEX_2026-01-13_18-55-42_28679.png" width="500" title="KITEX – 07 May 2025" alt="KITEX – 07 May 2025" />
 </p>
