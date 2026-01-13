@@ -48,4 +48,5 @@
   <img src="setup_images/45-GOLDIAM_2026-01-13_18-50-52_d0c40.png" width="500" title="GOLDIAM – 06 January 2025" alt="GOLDIAM – 06 January 2025" />
   <img src="setup_images/46-KITEX_2026-01-13_18-55-42_28679.png" width="500" title="KITEX – 07 May 2025" alt="KITEX – 07 May 2025" />
   <img src="setup_images/47-COCHINSHIP_2026-01-13_19-11-02_df923.png" width="500" title="COCHINSHIP – 26 May 2025" alt="COCHINSHIP – 26 May 2025" />
+  <img src="setup_images/48-GARUDA_2026-01-13_19-14-17_11588.png" width="500" title="GARUDA – 12 August 2025" alt="GARUDA – 12 August 2025" />
 </p>
