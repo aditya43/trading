@@ -24,4 +24,5 @@
   <img src="setup_images/22-AVANTEL_2026-01-13_12-16-52_7f571.png" width="500" title="AVANTEL – 23 May 2025" alt="AVANTEL – 23 May 2025" />
   <img src="setup_images/23-ATHERENERG_2026-01-13_12-33-36_1c711.png" width="500" title="ATHERENERG – 25 August 2025" alt="ATHERENERG – 25 August 2025" />
   <img src="setup_images/24-KIOCL_2026-01-13_12-37-48_d3389.png" width="500" title="KIOCL – 01 October 2025" alt="KIOCL – 01 October 2025" />
+  <img src="setup_images/25-RACLGEAR_2026-01-13_12-41-51_e4d14.png" width="500" title="RACLGEAR – 24 September 2025" alt="RACLGEAR – 24 September 2025" />
 </p>
