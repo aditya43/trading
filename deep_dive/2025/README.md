@@ -39,4 +39,5 @@
   <img src="setup_images/36-ZOTA_2026-01-13_14-42-31_fcd29.png" width="500" title="ZOTA – 26 June 2025" alt="ZOTA – 26 June 2025" />
   <img src="setup_images/37-NH_2026-01-13_18-17-25_de487.png" width="500" title="NH – 23 May 2025" alt="NH – 23 May 2025" />
   <img src="setup_images/38-KPRMILL_2026-01-13_18-21-01_2a575.png" width="500" title="KPRMILL – 05 May 2025" alt="KPRMILL – 05 May 2025" />
+  <img src="setup_images/39-KHAICHEM_2026-01-13_18-23-30_4b105.png" width="500" title="KHAICHEM – 26 June 2025" alt="KHAICHEM – 26 June 2025" />
 </p>
