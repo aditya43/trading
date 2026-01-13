@@ -33,4 +33,5 @@
   <img src="setup_images/31-SANDUMA_2026-01-13_13-26-58_48767.png" width="500" title="SANDUMA – 01 October 2025" alt="SANDUMA – 01 October 2025" />
   <img src="setup_images/32-MCLOUD_2026-01-13_13-35-02_5d4b9.png" width="500" title="MCLOUD – 04 July 2025" alt="MCLOUD – 04 July 2025" />
   <img src="setup_images/33-INDIAGLYCO_2026-01-13_13-43-38_be18a.png" width="500" title="INDIAGLYCO – 06 May 2025" alt="INDIAGLYCO – 06 May 2025" />
+  <img src="setup_images/34-LUMAXIND_2026-01-13_14-32-52_3e97a.png" width="500" title="LUMAXIND – 22 August 2025" alt="LUMAXIND – 22 August 2025" />
 </p>
