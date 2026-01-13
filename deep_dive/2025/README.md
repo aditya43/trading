@@ -21,4 +21,5 @@
   <img src="setup_images/19-PARADEEP_2026-01-12_21-56-22_aac59.png" width="500" title="PARADEEP – 10 July 2025" alt="PARADEEP – 10 July 2025" />
   <img src="setup_images/20-SYRMA_2026-01-12_21-58-53_80ab8.png" width="500" title="SYRMA – 26 June 2025" alt="SYRMA – 26 June 2025" />
   <img src="setup_images/21-LORDSCHLO_2026-01-13_12-13-54_51bdb.png" width="500" title="LORDSCHLO – 09 July 2025" alt="LORDSCHLO – 09 July 2025" />
+  <img src="setup_images/22-AVANTEL_2026-01-13_12-16-52_7f571.png" width="500" title="AVANTEL – 23 May 2025" alt="AVANTEL – 23 May 2025" />
 </p>
