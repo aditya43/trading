@@ -56,4 +56,5 @@
   <img src="setup_images/53-SUBROS_2026-01-13_22-25-44_fc56e.png" width="500" title="SUBROS – 15 September 2025" alt="SUBROS – 15 September 2025" />
   <img src="setup_images/54-MIDWESTLTD_2026-01-13_22-31-20_07d00.png" width="500" title="MIDWESTLTD – 26 November 2025" alt="MIDWESTLTD – 26 November 2025" />
   <img src="setup_images/55-ANANDRATHI_2026-01-14_08-47-39_aee07.png" width="500" title="ANANDRATHI – 09 July 2025" alt="ANANDRATHI – 09 July 2025" />
+  <img src="setup_images/56-EIDPARRY_2026-01-14_08-51-25_30068.png" width="500" title="EIDPARRY – 20 June 2025" alt="EIDPARRY – 20 June 2025" />
 </p>
