@@ -57,4 +57,5 @@
   <img src="setup_images/54-MIDWESTLTD_2026-01-13_22-31-20_07d00.png" width="500" title="MIDWESTLTD – 26 November 2025" alt="MIDWESTLTD – 26 November 2025" />
   <img src="setup_images/55-ANANDRATHI_2026-01-14_08-47-39_aee07.png" width="500" title="ANANDRATHI – 09 July 2025" alt="ANANDRATHI – 09 July 2025" />
   <img src="setup_images/56-EIDPARRY_2026-01-14_08-51-25_30068.png" width="500" title="EIDPARRY – 20 June 2025" alt="EIDPARRY – 20 June 2025" />
+  <img src="setup_images/57-TDPOWERSYS_2026-01-14_08-55-29_17d58.png" width="500" title="TDPOWERSYS – 28 October 2025" alt="TDPOWERSYS – 28 October 2025" />
 </p>
