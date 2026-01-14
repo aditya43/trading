@@ -60,4 +60,5 @@
   <img src="setup_images/57-TDPOWERSYS_2026-01-14_08-55-29_17d58.png" width="500" title="TDPOWERSYS – 28 October 2025" alt="TDPOWERSYS – 28 October 2025" />
   <img src="setup_images/58-RAMCOSYS_2026-01-14_13-18-45_07595.png" width="500" title="RAMCOSYS – 30 September 2025" alt="RAMCOSYS – 30 September 2025" />
   <img src="setup_images/59-IFBAGRO_2026-01-14_13-23-59_b7388.png" width="500" title="IFBAGRO – 15 July 2025" alt="IFBAGRO – 15 July 2025" />
+  <img src="setup_images/60-ASHAPURMIN_2026-01-14_13-27-33_4d47a.png" width="500" title="ASHAPURMIN – 11 December 2025" alt="ASHAPURMIN – 11 December 2025" />
 </p>
