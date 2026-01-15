@@ -63,4 +63,5 @@
   <img src="setup_images/60-ASHAPURMIN_2026-01-14_13-27-33_4d47a.png" width="500" title="ASHAPURMIN – 11 December 2025" alt="ASHAPURMIN – 11 December 2025" />
   <img src="setup_images/61-KSCL_2026-01-15_16-55-12_29c30.png" width="500" title="KSCL – 13 March 2025" alt="KSCL – 13 March 2025" />
   <img src="setup_images/62-PSPPROJECT_2026-01-15_17-12-48_c6b35.png" width="500" title="PSPPROJECT – 23 October 2025" alt="PSPPROJECT – 23 October 2025" />
+  <img src="setup_images/63-JAYNECOIND_2026-01-15_17-17-05_dee3e.png" width="500" title="JAYNECOIND – 02 September 2025" alt="JAYNECOIND – 02 September 2025" />
 </p>
