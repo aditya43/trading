@@ -67,4 +67,5 @@
   <img src="setup_images/64-TRANSRAILL_2026-01-15_17-21-13_27579.png" width="500" title="TRANSRAILL – 26 June 2025" alt="TRANSRAILL – 26 June 2025" />
   <img src="setup_images/65-JMFINANCIL_2026-01-15_18-30-39_16e7c.png" width="500" title="JMFINANCIL – 23 June 2025" alt="JMFINANCIL – 23 June 2025" />
   <img src="setup_images/66-LUMAXIND_2026-01-15_18-40-52_4e629.png" width="500" title="LUMAXIND – 16 September 2025" alt="LUMAXIND – 16 September 2025" />
+  <img src="setup_images/67-NAVA_2026-01-16_18-51-48_5396f.png" width="500" title="NAVA – 03 June 2025" alt="NAVA – 03 June 2025" />
 </p>
