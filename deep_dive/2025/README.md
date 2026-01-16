@@ -69,4 +69,5 @@
   <img src="setup_images/66-LUMAXIND_2026-01-15_18-40-52_4e629.png" width="500" title="LUMAXIND – 16 September 2025" alt="LUMAXIND – 16 September 2025" />
   <img src="setup_images/67-NAVA_2026-01-16_18-51-48_5396f.png" width="500" title="NAVA – 03 June 2025" alt="NAVA – 03 June 2025" />
   <img src="setup_images/68-MBAPL_2026-01-16_18-58-14_89908.png" width="500" title="MBAPL – 17 June 2025" alt="MBAPL – 17 June 2025" />
+  <img src="setup_images/69-SEQUENT_2026-01-16_19-07-24_a0d9c.png" width="500" title="SEQUENT – 27 October 2025" alt="SEQUENT – 27 October 2025" />
 </p>
