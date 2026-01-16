@@ -71,4 +71,5 @@
   <img src="setup_images/68-MBAPL_2026-01-16_18-58-14_89908.png" width="500" title="MBAPL – 17 June 2025" alt="MBAPL – 17 June 2025" />
   <img src="setup_images/69-SEQUENT_2026-01-16_19-07-24_a0d9c.png" width="500" title="SEQUENT – 27 October 2025" alt="SEQUENT – 27 October 2025" />
   <img src="setup_images/70-DYNAMATECH_2026-01-16_19-16-46_4861e.png" width="500" title="DYNAMATECH – 30 October 2025" alt="DYNAMATECH – 30 October 2025" />
+  <img src="setup_images/71-JKTYRE_2026-01-16_19-26-46_2e010.png" width="500" title="JKTYRE – 15 October 2025" alt="JKTYRE – 15 October 2025" />
 </p>
