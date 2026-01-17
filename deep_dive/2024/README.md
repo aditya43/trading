@@ -11,4 +11,5 @@
   <img src="setup_images/07-REGENCERAM_2026-01-17_22-43-28_787e5.png" width="500" title="REGENCERAM – 26 August 2024" alt="REGENCERAM – 26 August 2024" />
   <img src="setup_images/08-JSWHL_2026-01-17_22-48-02_12ed7.png" width="500" title="JSWHL – 29 October 2024" alt="JSWHL – 29 October 2024" />
   <img src="setup_images/09-GRSE_2026-01-17_22-53-44_48655.png" width="500" title="GRSE – 12 June 2024" alt="GRSE – 12 June 2024" />
+  <img src="setup_images/10-IREDA_2026-01-17_22-59-02_e4bb7.png" width="500" title="IREDA – 11 January 2024" alt="IREDA – 11 January 2024" />
 </p>
