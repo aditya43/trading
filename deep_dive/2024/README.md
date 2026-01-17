@@ -10,4 +10,5 @@
   <img src="setup_images/06-BALUFORGE_2026-01-17_22-37-14_3c594.png" width="500" title="BALUFORGE – 22 July 2024" alt="BALUFORGE – 22 July 2024" />
   <img src="setup_images/07-REGENCERAM_2026-01-17_22-43-28_787e5.png" width="500" title="REGENCERAM – 26 August 2024" alt="REGENCERAM – 26 August 2024" />
   <img src="setup_images/08-JSWHL_2026-01-17_22-48-02_12ed7.png" width="500" title="JSWHL – 29 October 2024" alt="JSWHL – 29 October 2024" />
+  <img src="setup_images/09-GRSE_2026-01-17_22-53-44_48655.png" width="500" title="GRSE – 12 June 2024" alt="GRSE – 12 June 2024" />
 </p>
