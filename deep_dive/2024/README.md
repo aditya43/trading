@@ -13,4 +13,5 @@
   <img src="setup_images/09-GRSE_2026-01-17_22-53-44_48655.png" width="500" title="GRSE – 12 June 2024" alt="GRSE – 12 June 2024" />
   <img src="setup_images/10-IREDA_2026-01-17_22-59-02_e4bb7.png" width="500" title="IREDA – 11 January 2024" alt="IREDA – 11 January 2024" />
   <img src="setup_images/11-GODFRYPHLP_2026-01-17_23-03-30_93056.png" width="500" title="GODFRYPHLP – 06 August 2024" alt="GODFRYPHLP – 06 August 2024" />
+  <img src="setup_images/12-RADHIKAJWE_2026-01-17_23-10-10_b6723.png" width="500" title="RADHIKAJWE – 09 August 2024" alt="RADHIKAJWE – 09 August 2024" />
 </p>
