@@ -8,4 +8,5 @@
   <img src="setup_images/04-NPST_2026-01-17_13-04-39_a6690.png" width="500" title="NPST – 01 July 2024" alt="NPST – 01 July 2024" />
   <img src="setup_images/05-PLATIND_2026-01-17_13-08-12_12f60.png" width="500" title="PLATIND – 28 June 2024" alt="PLATIND – 28 June 2024" />
   <img src="setup_images/06-BALUFORGE_2026-01-17_22-37-14_3c594.png" width="500" title="BALUFORGE – 22 July 2024" alt="BALUFORGE – 22 July 2024" />
+  <img src="setup_images/07-REGENCERAM_2026-01-17_22-43-28_787e5.png" width="500" title="REGENCERAM – 26 August 2024" alt="REGENCERAM – 26 August 2024" />
 </p>
