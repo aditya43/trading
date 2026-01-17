@@ -6,4 +6,5 @@
   <img src="setup_images/02-IFCI_2026-01-17_12-05-01_17dfa.png" width="500" title="IFCI – 01 January 2024" alt="IFCI – 01 January 2024" />
   <img src="setup_images/03-URJA_2026-01-17_13-00-39_fae71.png" width="500" title="URJA – 19 January 2024" alt="URJA – 19 January 2024" />
   <img src="setup_images/04-NPST_2026-01-17_13-04-39_a6690.png" width="500" title="NPST – 01 July 2024" alt="NPST – 01 July 2024" />
+  <img src="setup_images/05-PLATIND_2026-01-17_13-08-12_12f60.png" width="500" title="PLATIND – 28 June 2024" alt="PLATIND – 28 June 2024" />
 </p>
