@@ -16,4 +16,5 @@
   <img src="setup_images/12-RADHIKAJWE_2026-01-17_23-10-10_b6723.png" width="500" title="RADHIKAJWE – 09 August 2024" alt="RADHIKAJWE – 09 August 2024" />
   <img src="setup_images/13-SWELECTES_2026-01-17_23-25-11_3a210.png" width="500" title="SWELECTES – 19 January 2024" alt="SWELECTES – 19 January 2024" />
   <img src="setup_images/14-HERITGFOOD_2026-01-18_12-58-21_730e4.png" width="500" title="HERITGFOOD – 24 May 2024" alt="HERITGFOOD – 24 May 2024" />
+  <img src="setup_images/15-HINDZINC_2026-01-18_18-58-38_7ce76.png" width="500" title="HINDZINC – 25 April 2024" alt="HINDZINC – 25 April 2024" />
 </p>
