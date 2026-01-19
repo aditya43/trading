@@ -24,4 +24,5 @@
   <img src="setup_images/20-GODFRYPHLP_2026-01-19_12-57-57_3469f.png" width="500" title="GODFRYPHLP – 13 August 2024" alt="GODFRYPHLP – 13 August 2024" />
   <img src="setup_images/21-HINDZINC_2026-01-19_13-06-43_85173.png" width="500" title="HINDZINC – 30 April 2024" alt="HINDZINC – 30 April 2024" />
   <img src="setup_images/22-IRFC_2026-01-19_13-11-44_ec458.png" width="500" title="IRFC – 09 January 2024" alt="IRFC – 09 January 2024" />
+  <img src="setup_images/23-RVNL_2026-01-19_13-14-36_cc10e.png" width="500" title="RVNL – 02 January 2024" alt="RVNL – 02 January 2024" />
 </p>
