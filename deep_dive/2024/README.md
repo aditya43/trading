@@ -17,4 +17,5 @@
   <img src="setup_images/13-SWELECTES_2026-01-17_23-25-11_3a210.png" width="500" title="SWELECTES – 19 January 2024" alt="SWELECTES – 19 January 2024" />
   <img src="setup_images/14-HERITGFOOD_2026-01-18_12-58-21_730e4.png" width="500" title="HERITGFOOD – 24 May 2024" alt="HERITGFOOD – 24 May 2024" />
   <img src="setup_images/15-HINDZINC_2026-01-18_18-58-38_7ce76.png" width="500" title="HINDZINC – 25 April 2024" alt="HINDZINC – 25 April 2024" />
+  <img src="setup_images/16-INDOTECH_2026-01-19_12-14-02_fdb37.png" width="500" title="INDOTECH – 01 April 2024" alt="INDOTECH – 01 April 2024" />
 </p>
