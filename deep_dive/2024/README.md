@@ -28,4 +28,5 @@
   <img src="setup_images/24-BLAL_2026-01-19_13-22-47_ddb3c.png" width="500" title="BLAL – 29 January 2024" alt="BLAL – 29 January 2024" />
   <img src="setup_images/25-MAZDOCK_2026-01-19_13-58-58_d2083.png" width="500" title="MAZDOCK – 11 June 2024" alt="MAZDOCK – 11 June 2024" />
   <img src="setup_images/26-MICEL_2026-01-19_14-05-34_ca893.png" width="500" title="MICEL – 14 June 2024" alt="MICEL – 14 June 2024" />
+  <img src="setup_images/27-63MOONS_2026-01-19_14-10-11_fd543.png" width="500" title="63MOONS – 22 November 2024" alt="63MOONS – 22 November 2024" />
 </p>
