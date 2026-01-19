@@ -22,4 +22,5 @@
   <img src="setup_images/18-TFCILTD_2026-01-19_12-21-20_73810.png" width="500" title="TFCILTD – 09 January 2024" alt="TFCILTD – 09 January 2024" />
   <img src="setup_images/19-SALZERELEC_2026-01-19_12-51-50_1d709.png" width="500" title="SALZERELEC – 31 January 2024" alt="SALZERELEC – 31 January 2024" />
   <img src="setup_images/20-GODFRYPHLP_2026-01-19_12-57-57_3469f.png" width="500" title="GODFRYPHLP – 13 August 2024" alt="GODFRYPHLP – 13 August 2024" />
+  <img src="setup_images/21-HINDZINC_2026-01-19_13-06-43_85173.png" width="500" title="HINDZINC – 30 April 2024" alt="HINDZINC – 30 April 2024" />
 </p>
