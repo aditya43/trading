@@ -20,4 +20,5 @@
   <img src="setup_images/16-INDOTECH_2026-01-19_12-14-02_fdb37.png" width="500" title="INDOTECH – 01 April 2024" alt="INDOTECH – 01 April 2024" />
   <img src="setup_images/17-SUMIT_2026-01-19_12-18-13_f401c.png" width="500" title="SUMIT – 26 July 2024" alt="SUMIT – 26 July 2024" />
   <img src="setup_images/18-TFCILTD_2026-01-19_12-21-20_73810.png" width="500" title="TFCILTD – 09 January 2024" alt="TFCILTD – 09 January 2024" />
+  <img src="setup_images/19-SALZERELEC_2026-01-19_12-51-50_1d709.png" width="500" title="SALZERELEC – 31 January 2024" alt="SALZERELEC – 31 January 2024" />
 </p>
