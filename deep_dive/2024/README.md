@@ -33,4 +33,5 @@
   <img src="setup_images/29-SJVN_2026-01-19_19-22-25_8c9f4.png" width="500" title="SJVN – 12 January 2024" alt="SJVN – 12 January 2024" />
   <img src="setup_images/30-ALOKINDS_2026-01-19_19-27-00_594a1.png" width="500" title="ALOKINDS – 01 January 2024" alt="ALOKINDS – 01 January 2024" />
   <img src="setup_images/31-INFIBEAM_2026-01-19_19-29-39_734f1.png" width="500" title="INFIBEAM – 03 January 2024" alt="INFIBEAM – 03 January 2024" />
+  <img src="setup_images/32-TATAINVEST_2026-01-19_19-33-19_33025.png" width="500" title="TATAINVEST – 13 February 2024" alt="TATAINVEST – 13 February 2024" />
 </p>
