@@ -19,4 +19,5 @@
   <img src="setup_images/15-HINDZINC_2026-01-18_18-58-38_7ce76.png" width="500" title="HINDZINC – 25 April 2024" alt="HINDZINC – 25 April 2024" />
   <img src="setup_images/16-INDOTECH_2026-01-19_12-14-02_fdb37.png" width="500" title="INDOTECH – 01 April 2024" alt="INDOTECH – 01 April 2024" />
   <img src="setup_images/17-SUMIT_2026-01-19_12-18-13_f401c.png" width="500" title="SUMIT – 26 July 2024" alt="SUMIT – 26 July 2024" />
+  <img src="setup_images/18-TFCILTD_2026-01-19_12-21-20_73810.png" width="500" title="TFCILTD – 09 January 2024" alt="TFCILTD – 09 January 2024" />
 </p>
