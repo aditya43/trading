@@ -30,4 +30,5 @@
   <img src="setup_images/26-MICEL_2026-01-19_14-05-34_ca893.png" width="500" title="MICEL – 14 June 2024" alt="MICEL – 14 June 2024" />
   <img src="setup_images/27-63MOONS_2026-01-19_14-10-11_fd543.png" width="500" title="63MOONS – 22 November 2024" alt="63MOONS – 22 November 2024" />
   <img src="setup_images/28-MANAKSTEEL_2026-01-19_19-17-34_46c4b.png" width="500" title="MANAKSTEEL – 17 January 2024" alt="MANAKSTEEL – 17 January 2024" />
+  <img src="setup_images/29-SJVN_2026-01-19_19-22-25_8c9f4.png" width="500" title="SJVN – 12 January 2024" alt="SJVN – 12 January 2024" />
 </p>
