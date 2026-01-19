@@ -26,4 +26,5 @@
   <img src="setup_images/22-IRFC_2026-01-19_13-11-44_ec458.png" width="500" title="IRFC – 09 January 2024" alt="IRFC – 09 January 2024" />
   <img src="setup_images/23-RVNL_2026-01-19_13-14-36_cc10e.png" width="500" title="RVNL – 02 January 2024" alt="RVNL – 02 January 2024" />
   <img src="setup_images/24-BLAL_2026-01-19_13-22-47_ddb3c.png" width="500" title="BLAL – 29 January 2024" alt="BLAL – 29 January 2024" />
+  <img src="setup_images/25-MAZDOCK_2026-01-19_13-58-58_d2083.png" width="500" title="MAZDOCK – 11 June 2024" alt="MAZDOCK – 11 June 2024" />
 </p>
