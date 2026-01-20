@@ -52,4 +52,5 @@
   <img src="setup_images/52-BDL_2026-01-20_19-23-41_02081.png" width="500" title="BDL – 09 May 2024" alt="BDL – 09 May 2024" />
   <img src="setup_images/53-NDRAUTO_2026-01-20_19-33-42_93821.png" width="500" title="NDRAUTO – 20 August 2024" alt="NDRAUTO – 20 August 2024" />
   <img src="setup_images/54-CARTRADE_2026-01-20_19-41-31_0bfe9.png" width="500" title="CARTRADE – 24 October 2024" alt="CARTRADE – 24 October 2024" />
-</p>
+  <img src="setup_images/55-SIYSIL_2026-01-20_20-03-34_bc466.png" width="500" title="SIYSIL – 22 November 2024" alt="SIYSIL – 22 November 2024" />
+</p>22 November 2024
