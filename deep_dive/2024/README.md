@@ -42,4 +42,5 @@
   <img src="setup_images/42-SHAKTIPUMP_2026-01-20_13-00-10_cc4b7.png" width="500" title="SHAKTIPUMP – 10 December 2024" alt="SHAKTIPUMP – 10 December 2024" />
   <img src="setup_images/43-PDMJEPAPER_2026-01-20_13-04-45_560af.png" width="500" title="PDMJEPAPER – 14 November 2024" alt="PDMJEPAPER – 14 November 2024" />
   <img src="setup_images/44-ROTO_2026-01-20_13-09-41_85161.png" width="500" title="ROTO – 06 June 2024" alt="ROTO – 06 June 2024" />
+  <img src="setup_images/45-SYNCOMF_2026-01-20_13-16-33_8b5a1.png" width="500" title="SYNCOMF – 09 August 2024" alt="SYNCOMF – 09 August 2024" />
 </p>
