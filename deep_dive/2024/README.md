@@ -36,4 +36,5 @@
   <img src="setup_images/32-TATAINVEST_2026-01-19_19-33-19_33025.png" width="500" title="TATAINVEST – 13 February 2024" alt="TATAINVEST – 13 February 2024" />
   <img src="setup_images/33-MSTCLTD_2026-01-20_12-22-48_f8a6e.png" width="500" title="MSTCLTD – 09 January 2024" alt="MSTCLTD – 09 January 2024" />
   <img src="setup_images/34-SMARTLINK_2026-01-20_12-26-43_ba1bb.png" width="500" title="SMARTLINK – 08 May 2024" alt="SMARTLINK – 08 May 2024" />
+  <img src="setup_images/35-PCBL_2026-01-20_12-33-55_07ba5.png" width="500" title="PCBL – 26 July 2024" alt="PCBL – 26 July 2024" />
 </p>
