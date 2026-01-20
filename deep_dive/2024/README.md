@@ -49,4 +49,5 @@
   <img src="setup_images/49-KAMDHENU_2026-01-20_19-03-03_ea6c2.png" width="500" title="KAMDHENU – 05 January 2024" alt="KAMDHENU – 05 January 2024" />
   <img src="setup_images/50-RVNL_2026-01-20_19-06-36_b4f6e.png" width="500" title="RVNL – 07 June 2024" alt="RVNL – 07 June 2024" />
   <img src="setup_images/51-HUBTOWN_2026-01-20_19-16-14_c6546.png" width="500" title="HUBTOWN – 11 July 2024" alt="HUBTOWN – 11 July 2024" />
+  <img src="setup_images/52-BDL_2026-01-20_19-23-41_02081.png" width="500" title="BDL – 09 May 2024" alt="BDL – 09 May 2024" />
 </p>
