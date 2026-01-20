@@ -47,4 +47,5 @@
   <img src="setup_images/47-PARAS_2026-01-20_13-50-37_88eed.png" width="500" title="PARAS – 12 June 2024" alt="PARAS – 12 June 2024" />
   <img src="setup_images/48-KSL_2026-01-20_13-55-59_c7136.png" width="500" title="KSL – 01 February 2024" alt="KSL – 01 February 2024" />
   <img src="setup_images/49-KAMDHENU_2026-01-20_19-03-03_ea6c2.png" width="500" title="KAMDHENU – 05 January 2024" alt="KAMDHENU – 05 January 2024" />
+  <img src="setup_images/50-RVNL_2026-01-20_19-06-36_b4f6e.png" width="500" title="RVNL – 07 June 2024" alt="RVNL – 07 June 2024" />
 </p>
