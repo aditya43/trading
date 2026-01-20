@@ -45,4 +45,5 @@
   <img src="setup_images/45-SYNCOMF_2026-01-20_13-16-33_8b5a1.png" width="500" title="SYNCOMF – 09 August 2024" alt="SYNCOMF – 09 August 2024" />
   <img src="setup_images/46-EIHOTEL_2026-01-20_13-47-23_f36ff.png" width="500" title="EIHOTEL – 11 January 2024" alt="EIHOTEL – 11 January 2024" />
   <img src="setup_images/47-PARAS_2026-01-20_13-50-37_88eed.png" width="500" title="PARAS – 12 June 2024" alt="PARAS – 12 June 2024" />
+  <img src="setup_images/48-KSL_2026-01-20_13-55-59_c7136.png" width="500" title="KSL – 01 February 2024" alt="KSL – 01 February 2024" />
 </p>
