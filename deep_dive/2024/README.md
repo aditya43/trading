@@ -55,4 +55,5 @@
   <img src="setup_images/55-SIYSIL_2026-01-20_20-03-34_bc466.png" width="500" title="SIYSIL – 22 November 2024" alt="SIYSIL – 22 November 2024" />
   <img src="setup_images/56-KELLTONTEC_2026-01-21_12-27-12_196b5.png" width="500" title="KELLTONTEC – 03 July 2024" alt="KELLTONTEC – 03 July 2024" />
   <img src="setup_images/57-SCI_2026-01-21_12-36-51_f2d43.png" width="500" title="SCI – 19 January 2024" alt="SCI – 19 January 2024" />
+  <img src="setup_images/58-EXICOM_2026-01-21_13-05-19_c8b41.png" width="500" title="EXICOM – 10 June 2024" alt="EXICOM – 10 June 2024" />
 </p>
