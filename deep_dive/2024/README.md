@@ -54,4 +54,5 @@
   <img src="setup_images/54-CARTRADE_2026-01-20_19-41-31_0bfe9.png" width="500" title="CARTRADE – 24 October 2024" alt="CARTRADE – 24 October 2024" />
   <img src="setup_images/55-SIYSIL_2026-01-20_20-03-34_bc466.png" width="500" title="SIYSIL – 22 November 2024" alt="SIYSIL – 22 November 2024" />
   <img src="setup_images/56-KELLTONTEC_2026-01-21_12-27-12_196b5.png" width="500" title="KELLTONTEC – 03 July 2024" alt="KELLTONTEC – 03 July 2024" />
+  <img src="setup_images/57-SCI_2026-01-21_12-36-51_f2d43.png" width="500" title="SCI – 19 January 2024" alt="SCI – 19 January 2024" />
 </p>
