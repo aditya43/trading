@@ -62,4 +62,5 @@
   <img src="setup_images/62-NHPC_2026-01-21_13-43-05_69a2c.png" width="500" title="NHPC – 12 January 2024" alt="NHPC – 12 January 2024" />
   <img src="setup_images/63-FINCABLES_2026-01-22_08-33-45_9386b.png" width="500" title="FINCABLES – 14 May 2024" alt="FINCABLES – 14 May 2024" />
   <img src="setup_images/64-LGHL_2026-01-22_12-00-19_1a400.png" width="500" title="LGHL – 09 December 2024" alt="LGHL – 09 December 2024" />
+  <img src="setup_images/65-HONDAPOWER_2026-01-22_12-05-47_107d2.png" width="500" title="HONDAPOWER – 07 June 2024" alt="HONDAPOWER – 07 June 2024" />
 </p>
