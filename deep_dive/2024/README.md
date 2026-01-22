@@ -68,4 +68,5 @@
   <img src="setup_images/68-WEALTH_2026-01-22_12-21-01_1656b.png" width="500" title="WEALTH – 29 July 2024" alt="WEALTH – 29 July 2024" />
   <img src="setup_images/69-BBOX_2026-01-22_12-38-53_ae8fa.png" width="500" title="BBOX – 24 June 2024" alt="BBOX – 24 June 2024" />
   <img src="setup_images/70-SBC_2026-01-22_12-42-06_d2135.png" width="500" title="SBC – 10 January 2024" alt="SBC – 10 January 2024" />
+  <img src="setup_images/71-KRISHNADEF_2026-01-22_12-47-05_a1239.png" width="500" title="KRISHNADEF – 07 June 2024" alt="KRISHNADEF – 07 June 2024" />
 </p>
