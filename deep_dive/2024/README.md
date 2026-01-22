@@ -60,4 +60,5 @@
   <img src="setup_images/60-POCL_2026-01-21_13-14-55_6adf6.png" width="500" title="POCL – 04 January 2024" alt="POCL – 04 January 2024" />
   <img src="setup_images/61-BLBLIMITED_2026-01-21_13-39-08_aa2f2.png" width="500" title="BLBLIMITED – 30 January 2024" alt="BLBLIMITED – 30 January 2024" />
   <img src="setup_images/62-NHPC_2026-01-21_13-43-05_69a2c.png" width="500" title="NHPC – 12 January 2024" alt="NHPC – 12 January 2024" />
+  <img src="setup_images/63-FINCABLES_2026-01-22_08-33-45_9386b.png" width="500" title="FINCABLES – 14 May 2024" alt="FINCABLES – 14 May 2024" />
 </p>
