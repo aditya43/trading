@@ -71,4 +71,5 @@
   <img src="setup_images/71-KRISHNADEF_2026-01-22_12-47-05_a1239.png" width="500" title="KRISHNADEF – 07 June 2024" alt="KRISHNADEF – 07 June 2024" />
   <img src="setup_images/72-LUXIND_2026-01-22_12-49-39_8da6e.png" width="500" title="LUXIND – 05 July 2024" alt="LUXIND – 05 July 2024" />
   <img src="setup_images/73-ANUP_2026-01-22_12-54-18_ca873.png" width="500" title="ANUP – 23 September 2024" alt="ANUP – 23 September 2024" />
+  <img src="setup_images/74-CONCORDBIO_2026-01-22_13-13-36_c31d6.png" width="500" title="CONCORDBIO – 26 August 2024" alt="CONCORDBIO – 26 August 2024" />
 </p>
