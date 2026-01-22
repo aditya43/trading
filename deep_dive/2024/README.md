@@ -74,4 +74,5 @@
   <img src="setup_images/74-CONCORDBIO_2026-01-22_13-13-36_c31d6.png" width="500" title="CONCORDBIO – 26 August 2024" alt="CONCORDBIO – 26 August 2024" />
   <img src="setup_images/75-SOLEX_2026-01-22_14-26-20_5dbb8.png" width="500" title="SOLEX – 10 April 2024" alt="SOLEX – 10 April 2024" />
   <img src="setup_images/76-GPTINFRA_2026-01-22_17-41-40_7d95f.png" width="500" title="GPTINFRA – 13 June 2024" alt="GPTINFRA – 13 June 2024" />
+  <img src="setup_images/77-PGIL_2026-01-22_17-46-46_1cc9b.png" width="500" title="PGIL – 14 November 2024" alt="PGIL – 14 November 2024" />
 </p>
