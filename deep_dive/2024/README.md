@@ -77,4 +77,5 @@
   <img src="setup_images/77-PGIL_2026-01-22_17-46-46_1cc9b.png" width="500" title="PGIL – 14 November 2024" alt="PGIL – 14 November 2024" />
   <img src="setup_images/78-BALAJITELE_2026-01-22_18-07-05_141e8.png" width="500" title="BALAJITELE – 31 January 2024" alt="BALAJITELE – 31 January 2024" />
   <img src="setup_images/79-20MICRONS_2026-01-22_18-24-06_7b58c.png" width="500" title="20MICRONS – 22 July 2024" alt="20MICRONS – 22 July 2024" />
+  <img src="setup_images/80-AVG_2026-01-22_18-35-40_3bfca.png" width="500" title="AVG – 01 February 2024" alt="AVG – 01 February 2024" />
 </p>
