@@ -64,4 +64,5 @@
   <img src="setup_images/64-LGHL_2026-01-22_12-00-19_1a400.png" width="500" title="LGHL – 09 December 2024" alt="LGHL – 09 December 2024" />
   <img src="setup_images/65-HONDAPOWER_2026-01-22_12-05-47_107d2.png" width="500" title="HONDAPOWER – 07 June 2024" alt="HONDAPOWER – 07 June 2024" />
   <img src="setup_images/66-ORIENTTECH_2026-01-22_12-10-12_97bac.png" width="500" title="ORIENTTECH – 29 October 2024" alt="ORIENTTECH – 29 October 2024" />
+  <img src="setup_images/67-UNOMINDA_2026-01-22_12-18-33_f3db1.png" width="500" title="UNOMINDA – 14 May 2024" alt="UNOMINDA – 14 May 2024" />
 </p>
