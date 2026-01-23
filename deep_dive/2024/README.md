@@ -87,4 +87,5 @@
   <img src="setup_images/87-RADHIKAJWE_2026-01-23_12-40-49_a124e.png" width="500" title="RADHIKAJWE – 25 January 2024" alt="RADHIKAJWE – 25 January 2024" />
   <img src="setup_images/88-ORIENTCEM_2026-01-23_12-46-52_226be.png" width="500" title="ORIENTCEM – 25 June 2024" alt="ORIENTCEM – 25 June 2024" />
   <img src="setup_images/89-NECCLTD_2026-01-23_12-56-43_a848a.png" width="500" title="NECCLTD – 12 July 2024" alt="NECCLTD – 12 July 2024" />
+  <img src="setup_images/90-NELCO_2026-01-23_13-24-44_13500.png" width="500" title="NELCO – 09 August 2024" alt="NELCO – 09 August 2024" />
 </p>
