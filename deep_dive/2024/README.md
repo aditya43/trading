@@ -84,4 +84,5 @@
   <img src="setup_images/84-NEULANDLAB_2026-01-23_12-11-15_bca70.png" width="500" title="NEULANDLAB – 26 July 2024" alt="NEULANDLAB – 26 July 2024" />
   <img src="setup_images/85-JSLL_2026-01-23_12-17-42_5d575.png" width="500" title="JSLL – 28 October 2024" alt="JSLL – 28 October 2024" />
   <img src="setup_images/86-SUVEN_2026-01-23_12-25-10_0bcb8.png" width="500" title="SUVEN – 01 January 2024" alt="SUVEN – 01 January 2024" />
+  <img src="setup_images/87-RADHIKAJWE_2026-01-23_12-40-49_a124e.png" width="500" title="RADHIKAJWE – 25 January 2024" alt="RADHIKAJWE – 25 January 2024" />
 </p>
