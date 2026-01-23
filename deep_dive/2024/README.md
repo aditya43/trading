@@ -81,4 +81,5 @@
   <img src="setup_images/81-KPIGREEN_2026-01-22_21-35-56_b7286.png" width="500" title="KPIGREEN – 25 January 2024" alt="KPIGREEN – 25 January 2024" />
   <img src="setup_images/82-ELECTCAST_2026-01-22_21-41-12_d77f9.png" width="500" title="ELECTCAST – 12 January 2024" alt="ELECTCAST – 12 January 2024" />
   <img src="setup_images/83-GEOJITFSL_2026-01-22_21-47-33_7cceb.png" width="500" title="GEOJITFSL – 21 August 2024" alt="GEOJITFSL – 21 August 2024" />
+  <img src="setup_images/84-NEULANDLAB_2026-01-23_12-11-15_bca70.png" width="500" title="NEULANDLAB – 26 July 2024" alt="NEULANDLAB – 26 July 2024" />
 </p>
