@@ -89,4 +89,5 @@
   <img src="setup_images/89-NECCLTD_2026-01-23_12-56-43_a848a.png" width="500" title="NECCLTD – 12 July 2024" alt="NECCLTD – 12 July 2024" />
   <img src="setup_images/90-NELCO_2026-01-23_13-24-44_13500.png" width="500" title="NELCO – 09 August 2024" alt="NELCO – 09 August 2024" />
   <img src="setup_images/91-KALYANKJIL_2026-01-23_13-32-44_ae2c8.png" width="500" title="KALYANKJIL – 14 June 2024" alt="KALYANKJIL – 14 June 2024" />
+  <img src="setup_images/92-COCHINSHIP_2026-01-23_13-48-51_64e64.png" width="500" title="COCHINSHIP – 16 May 2024" alt="COCHINSHIP – 16 May 2024" />
 </p>
