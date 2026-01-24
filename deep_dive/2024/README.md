@@ -103,4 +103,5 @@
   <img src="setup_images/103-MBLINFRA_2026-01-24_10-28-18_e1174.png" width="500" title="MBLINFRA – 21 June 2024" alt="MBLINFRA – 21 June 2024" />
   <img src="setup_images/104-XCHANGING_2026-01-24_10-31-44_55c23.png" width="500" title="XCHANGING – 01 February 2024" alt="XCHANGING – 01 February 2024" />
   <img src="setup_images/105-NETWORK18_2026-01-24_10-36-45_a3d48.png" width="500" title="NETWORK18 – 01 January 2024" alt="NETWORK18 – 01 January 2024" />
+  <img src="setup_images/106-LTFOODS_2026-01-24_10-41-52_76d33.png" width="500" title="LTFOODS – 29 July 2024" alt="LTFOODS – 29 July 2024" />
 </p>
