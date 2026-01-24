@@ -99,4 +99,5 @@
   <img src="setup_images/99-AWHCL_2026-01-24_09-23-51_0c2bd.png" width="500" title="AWHCL – 12 July 2024" alt="AWHCL – 12 July 2024" />
   <img src="setup_images/100-MAZDA_2026-01-24_10-15-42_ea61b.png" width="500" title="MAZDA – 17 December 2024" alt="MAZDA – 17 December 2024" />
   <img src="setup_images/101-KIRLOSENG_2026-01-24_10-19-48_d877e.png" width="500" title="KIRLOSENG – 19 April 2024" alt="KIRLOSENG – 19 April 2024" />
+  <img src="setup_images/102-DLINKINDIA_2026-01-24_10-22-21_cc6ad.png" width="500" title="DLINKINDIA – 21 June 2024" alt="DLINKINDIA – 21 June 2024" />
 </p>
