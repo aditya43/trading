@@ -109,4 +109,5 @@
   <img src="setup_images/109-SOBHA_2026-01-24_13-45-43_b1735.png" width="500" title="SOBHA – 02 January 2024" alt="SOBHA – 02 January 2024" />
   <img src="setup_images/110-SOFTTECH_2026-01-24_23-40-56_72ac1.png" width="500" title="SOFTTECH – 03 December 2024" alt="SOFTTECH – 03 December 2024" />
   <img src="setup_images/111-PANACEABIO_2026-01-24_23-43-39_8c7da.png" width="500" title="PANACEABIO – 05 September 2024" alt="PANACEABIO – 05 September 2024" />
+  <img src="setup_images/112-BHAGCHEM_2026-01-24_23-46-31_3c83f.png" width="500" title="BHAGCHEM – 16 July 2024" alt="BHAGCHEM – 16 July 2024" />
 </p>
