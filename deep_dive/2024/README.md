@@ -97,4 +97,5 @@
   <img src="setup_images/97-COCHINSHIP_2026-01-24_09-11-30_aeda9.png" width="500" title="COCHINSHIP – 12 June 2024" alt="COCHINSHIP – 12 June 2024" />
   <img src="setup_images/98-COCHINSHIP_2026-01-24_09-17-05_33a41.png" width="500" title="COCHINSHIP – 28 March 2024" alt="COCHINSHIP – 28 March 2024" />
   <img src="setup_images/99-AWHCL_2026-01-24_09-23-51_0c2bd.png" width="500" title="AWHCL – 12 July 2024" alt="AWHCL – 12 July 2024" />
+  <img src="setup_images/100-MAZDA_2026-01-24_10-15-42_ea61b.png" width="500" title="MAZDA – 17 December 2024" alt="MAZDA – 17 December 2024" />
 </p>
