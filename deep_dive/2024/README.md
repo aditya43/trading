@@ -95,4 +95,5 @@
   <img src="setup_images/95-RVNL_2026-01-24_08-59-05_d0819.png" width="500" title="RVNL – 01 July 2024" alt="RVNL – 01 July 2024" />
   <img src="setup_images/96-GRSE_2026-01-24_09-02-07_26483.png" width="500" title="GRSE – 16 May 2024" alt="GRSE – 16 May 2024" />
   <img src="setup_images/97-COCHINSHIP_2026-01-24_09-11-30_aeda9.png" width="500" title="COCHINSHIP – 12 June 2024" alt="COCHINSHIP – 12 June 2024" />
+  <img src="setup_images/98-COCHINSHIP_2026-01-24_09-17-05_33a41.png" width="500" title="COCHINSHIP – 28 March 2024" alt="COCHINSHIP – 28 March 2024" />
 </p>
