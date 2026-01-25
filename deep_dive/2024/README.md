@@ -116,4 +116,5 @@
   <img src="setup_images/116-CREST_2026-01-25_18-25-44_de001.png" width="500" title="CREST – 29 January 2024" alt="CREST – 29 January 2024" />
   <img src="setup_images/117-PFS_2026-01-25_18-30-08_c710e.png" width="500" title="PFS – 18 January 2024" alt="PFS – 18 January 2024" />
   <img src="setup_images/118-IFCI_2026-01-25_18-36-32_743d5.png" width="500" title="IFCI – 05 July 2024" alt="IFCI – 05 July 2024" />
+  <img src="setup_images/119-EXICOM_2026-01-25_18-47-16_b0a78.png" width="500" title="EXICOM – 04 April 2024" alt="EXICOM – 04 April 2024" />
 </p>
