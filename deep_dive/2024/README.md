@@ -124,4 +124,5 @@
   <img src="setup_images/124-SYMPHONY_2026-01-26_11-29-29_911e9.png" width="500" title="SYMPHONY – 29 July 2024" alt="SYMPHONY – 29 July 2024" />
   <img src="setup_images/125-USK_2026-01-26_11-34-03_611d0.png" width="500" title="USK – 10 June 2024" alt="USK – 10 June 2024" />
   <img src="setup_images/126-SCI_2026-01-26_11-39-15_8657c.png" width="500" title="SCI – 02 July 2024" alt="SCI – 02 July 2024" />
+  <img src="setup_images/127-HPL_2026-01-26_11-44-07_b95d6.png" width="500" title="HPL – 02 July 2024" alt="HPL – 02 July 2024" />
 </p>
