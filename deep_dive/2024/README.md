@@ -121,4 +121,5 @@
   <img src="setup_images/121-MADHAV_2026-01-26_11-06-27_10114.png" width="500" title="MADHAV – 04 January 2024" alt="MADHAV – 04 January 2024" />
   <img src="setup_images/122-SOTL_2026-01-26_11-15-05_cd1f8.png" width="500" title="SOTL – 18 March 2024" alt="SOTL – 18 March 2024" />
   <img src="setup_images/123-ZUARIIND_2026-01-26_11-18-33_77503.png" width="500" title="ZUARIIND – 01 January 2024" alt="ZUARIIND – 01 January 2024" />
+  <img src="setup_images/124-SYMPHONY_2026-01-26_11-29-29_911e9.png" width="500" title="SYMPHONY – 29 July 2024" alt="SYMPHONY – 29 July 2024" />
 </p>
