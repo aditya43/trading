@@ -126,4 +126,5 @@
   <img src="setup_images/126-SCI_2026-01-26_11-39-15_8657c.png" width="500" title="SCI – 02 July 2024" alt="SCI – 02 July 2024" />
   <img src="setup_images/127-HPL_2026-01-26_11-44-07_b95d6.png" width="500" title="HPL – 02 July 2024" alt="HPL – 02 July 2024" />
   <img src="setup_images/128-RAJSREESUG_2026-01-26_12-27-59_42c40.png" width="500" title="RAJSREESUG – 24 January 2024" alt="RAJSREESUG – 24 January 2024" />
+  <img src="setup_images/129-PGEL_2026-01-26_12-38-55_e5b2d.png" width="500" title="PGEL – 28 November 2024" alt="PGEL – 28 November 2024" />
 </p>
