@@ -130,4 +130,5 @@
   <img src="setup_images/130-SARDAEN_2026-01-26_12-41-56_969e6.png" width="500" title="SARDAEN – 06 September 2024" alt="SARDAEN – 06 September 2024" />
   <img src="setup_images/131-ADSL_2026-01-26_12-47-20_f69c7.png" width="500" title="ADSL – 04 January 2024" alt="ADSL – 04 January 2024" />
   <img src="setup_images/132-HINDOILEXP_2026-01-26_12-52-25_b9d00.png" width="500" title="HINDOILEXP – 01 July 2024" alt="HINDOILEXP – 01 July 2024" />
+  <img src="setup_images/133-MAZDOCK_2026-01-26_12-54-51_559e2.png" width="500" title="MAZDOCK – 25 June 2024" alt="MAZDOCK – 25 June 2024" />
 </p>
