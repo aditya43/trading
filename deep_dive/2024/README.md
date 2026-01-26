@@ -132,4 +132,5 @@
   <img src="setup_images/132-HINDOILEXP_2026-01-26_12-52-25_b9d00.png" width="500" title="HINDOILEXP – 01 July 2024" alt="HINDOILEXP – 01 July 2024" />
   <img src="setup_images/133-MAZDOCK_2026-01-26_12-54-51_559e2.png" width="500" title="MAZDOCK – 25 June 2024" alt="MAZDOCK – 25 June 2024" />
   <img src="setup_images/134-HEXATRADEX_2026-01-26_20-57-51_c3e54.png" width="500" title="HEXATRADEX – 22 August 2024" alt="HEXATRADEX – 22 August 2024" />
+  <img src="setup_images/135-INOXWIND_2026-01-26_21-01-47_4ddc8.png" width="500" title="INOXWIND – 08 August 2024" alt="INOXWIND – 08 August 2024" />
 </p>
