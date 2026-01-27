@@ -137,4 +137,5 @@
   <img src="setup_images/137-ADVANIHOTR_2026-01-27_08-34-19_2e9a5.png" width="500" title="ADVANIHOTR – 19 January 2024" alt="ADVANIHOTR – 19 January 2024" />
   <img src="setup_images/138-BYKE_2026-01-27_08-37-30_3bd3e.png" width="500" title="BYKE – 28 November 2024" alt="BYKE – 28 November 2024" />
   <img src="setup_images/139-KIRLOSBROS_2026-01-27_08-40-38_2c35e.png" width="500" title="KIRLOSBROS – 11 June 2024" alt="KIRLOSBROS – 11 June 2024" />
+  <img src="setup_images/140-BIGBLOC_2026-01-27_08-43-00_32362.png" width="500" title="BIGBLOC – 02 February 2024" alt="BIGBLOC – 02 February 2024" />
 </p>
