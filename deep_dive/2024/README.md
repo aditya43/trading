@@ -142,4 +142,5 @@
   <img src="setup_images/142-RICOAUTO_2026-01-27_14-03-41_ca974.png" width="500" title="RICOAUTO – 27 February 2024" alt="RICOAUTO – 27 February 2024" />
   <img src="setup_images/143-SUMMITSEC_2026-01-27_14-17-42_adf7b.png" width="500" title="SUMMITSEC – 13 August 2024" alt="SUMMITSEC – 13 August 2024" />
   <img src="setup_images/144-SALZERELEC_2026-01-27_14-38-27_c1619.png" width="500" title="SALZERELEC – 29 November 2024" alt="SALZERELEC – 29 November 2024" />
+  <img src="setup_images/145-VSSL_2026-01-27_14-43-17_8252d.png" width="500" title="VSSL – 12 April 2024" alt="VSSL – 12 April 2024" />
 </p>
