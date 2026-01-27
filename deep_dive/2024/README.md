@@ -153,4 +153,5 @@
   <img src="setup_images/153-MODISONLTD_2026-01-27_18-18-33_47a9d.png" width="500" title="MODISONLTD – 18 September 2024" alt="MODISONLTD – 18 September 2024" />
   <img src="setup_images/154-CLSEL_2026-01-27_18-56-57_f3f34.png" width="500" title="CLSEL – 18 September 2024" alt="CLSEL – 18 September 2024" />
   <img src="setup_images/155-PANACHE_2026-01-27_19-29-50_79e0f.png" width="500" title="PANACHE – 13 August 2024" alt="PANACHE – 13 August 2024" />
+  <img src="setup_images/156-JINDALPOLY_2026-01-27_19-33-52_f5b3d.png" width="500" title="JINDALPOLY – 14 November 2024" alt="JINDALPOLY – 14 November 2024" />
 </p>
