@@ -146,4 +146,5 @@
   <img src="setup_images/146-GODFRYPHLP_2026-01-27_17-52-06_a8a7a.png" width="500" title="GODFRYPHLP – 28 August 2024" alt="GODFRYPHLP – 28 August 2024" />
   <img src="setup_images/147-STAR_2026-01-27_17-55-55_1796e.png" width="500" title="STAR – 22 July 2024" alt="STAR – 22 July 2024" />
   <img src="setup_images/148-AZAD_2026-01-27_17-58-49_50cd6.png" width="500" title="AZAD – 29 May 2024" alt="AZAD – 29 May 2024" />
+  <img src="setup_images/149-BANARBEADS_2026-01-27_18-02-40_24cf3.png" width="500" title="BANARBEADS – 09 October 2024" alt="BANARBEADS – 09 October 2024" />
 </p>
