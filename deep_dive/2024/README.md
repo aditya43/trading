@@ -135,4 +135,5 @@
   <img src="setup_images/135-INOXWIND_2026-01-26_21-01-47_4ddc8.png" width="500" title="INOXWIND – 08 August 2024" alt="INOXWIND – 08 August 2024" />
   <img src="setup_images/136-KITEX_2026-01-27_08-31-25_f21e5.png" width="500" title="KITEX – 02 September 2024" alt="KITEX – 02 September 2024" />
   <img src="setup_images/137-ADVANIHOTR_2026-01-27_08-34-19_2e9a5.png" width="500" title="ADVANIHOTR – 19 January 2024" alt="ADVANIHOTR – 19 January 2024" />
+  <img src="setup_images/138-BYKE_2026-01-27_08-37-30_3bd3e.png" width="500" title="BYKE – 28 November 2024" alt="BYKE – 28 November 2024" />
 </p>
