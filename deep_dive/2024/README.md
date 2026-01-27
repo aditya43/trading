@@ -144,4 +144,5 @@
   <img src="setup_images/144-SALZERELEC_2026-01-27_14-38-27_c1619.png" width="500" title="SALZERELEC – 29 November 2024" alt="SALZERELEC – 29 November 2024" />
   <img src="setup_images/145-VSSL_2026-01-27_14-43-17_8252d.png" width="500" title="VSSL – 12 April 2024" alt="VSSL – 12 April 2024" />
   <img src="setup_images/146-GODFRYPHLP_2026-01-27_17-52-06_a8a7a.png" width="500" title="GODFRYPHLP – 28 August 2024" alt="GODFRYPHLP – 28 August 2024" />
+  <img src="setup_images/147-STAR_2026-01-27_17-55-55_1796e.png" width="500" title="STAR – 22 July 2024" alt="STAR – 22 July 2024" />
 </p>
