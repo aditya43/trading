@@ -140,4 +140,5 @@
   <img src="setup_images/140-BIGBLOC_2026-01-27_08-43-00_32362.png" width="500" title="BIGBLOC – 02 February 2024" alt="BIGBLOC – 02 February 2024" />
   <img src="setup_images/141-HSCL_2026-01-27_13-48-37_7a3b5.png" width="500" title="HSCL – 16 August 2024" alt="HSCL – 16 August 2024" />
   <img src="setup_images/142-RICOAUTO_2026-01-27_14-03-41_ca974.png" width="500" title="RICOAUTO – 27 February 2024" alt="RICOAUTO – 27 February 2024" />
+  <img src="setup_images/143-SUMMITSEC_2026-01-27_14-17-42_adf7b.png" width="500" title="SUMMITSEC – 13 August 2024" alt="SUMMITSEC – 13 August 2024" />
 </p>
