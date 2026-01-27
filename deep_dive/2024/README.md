@@ -150,4 +150,5 @@
   <img src="setup_images/150-TITAGARH_2026-01-27_18-07-13_0b100.png" width="500" title="TITAGARH – 14 May 2024" alt="TITAGARH – 14 May 2024" />
   <img src="setup_images/151-SERVOTECH_2026-01-27_18-10-47_07a67.png" width="500" title="SERVOTECH – 03 July 2024" alt="SERVOTECH – 03 July 2024" />
   <img src="setup_images/152-JMFINANCIL_2026-01-27_18-13-43_db77a.png" width="500" title="JMFINANCIL – 19 August 2024" alt="JMFINANCIL – 19 August 2024" />
+  <img src="setup_images/153-MODISONLTD_2026-01-27_18-18-33_47a9d.png" width="500" title="MODISONLTD – 10 September 2024" alt="MODISONLTD – 10 September 2024" />
 </p>
