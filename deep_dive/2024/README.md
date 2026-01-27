@@ -134,4 +134,5 @@
   <img src="setup_images/134-HEXATRADEX_2026-01-26_20-57-51_c3e54.png" width="500" title="HEXATRADEX – 22 August 2024" alt="HEXATRADEX – 22 August 2024" />
   <img src="setup_images/135-INOXWIND_2026-01-26_21-01-47_4ddc8.png" width="500" title="INOXWIND – 08 August 2024" alt="INOXWIND – 08 August 2024" />
   <img src="setup_images/136-KITEX_2026-01-27_08-31-25_f21e5.png" width="500" title="KITEX – 02 September 2024" alt="KITEX – 02 September 2024" />
+  <img src="setup_images/137-ADVANIHOTR_2026-01-27_08-34-19_2e9a5.png" width="500" title="ADVANIHOTR – 19 January 2024" alt="ADVANIHOTR – 19 January 2024" />
 </p>
