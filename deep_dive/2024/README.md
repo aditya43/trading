@@ -148,4 +148,5 @@
   <img src="setup_images/148-AZAD_2026-01-27_17-58-49_50cd6.png" width="500" title="AZAD – 29 May 2024" alt="AZAD – 29 May 2024" />
   <img src="setup_images/149-BANARBEADS_2026-01-27_18-02-40_24cf3.png" width="500" title="BANARBEADS – 09 October 2024" alt="BANARBEADS – 09 October 2024" />
   <img src="setup_images/150-TITAGARH_2026-01-27_18-07-13_0b100.png" width="500" title="TITAGARH – 14 May 2024" alt="TITAGARH – 14 May 2024" />
+  <img src="setup_images/151-SERVOTECH_2026-01-27_18-10-47_07a67.png" width="500" title="SERVOTECH – 03 July 2024" alt="SERVOTECH – 03 July 2024" />
 </p>
