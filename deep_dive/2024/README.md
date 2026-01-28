@@ -158,4 +158,5 @@
   <img src="setup_images/158-UNICHEMLAB_2026-01-28_11-51-38_3bf39.png" width="500" title="UNICHEMLAB – 09 October 2024" alt="UNICHEMLAB – 09 October 2024" />
   <img src="setup_images/159-SHAHALLOYS_2026-01-28_11-55-22_89b78.png" width="500" title="SHAHALLOYS – 04 January 2024" alt="SHAHALLOYS – 04 January 2024" />
   <img src="setup_images/160-EIFFL_2026-01-28_11-59-40_c13db.png" width="500" title="EIFFL – 13 September 2024" alt="EIFFL – 13 September 2024" />
+  <img src="setup_images/161-QUICKHEAL_2026-01-28_12-06-47_9b7b8.png" width="500" title="QUICKHEAL – 02 January 2024" alt="QUICKHEAL – 02 January 2024" />
 </p>
