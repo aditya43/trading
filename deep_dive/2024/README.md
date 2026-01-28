@@ -162,4 +162,5 @@
   <img src="setup_images/162-WSI_2026-01-28_12-14-45_e70b9.png" width="500" title="WSI – 02 February 2024" alt="WSI – 02 February 2024" />
   <img src="setup_images/163-EIMCOELECO_2026-01-28_19-19-37_e2cf9.png" width="500" title="EIMCOELECO – 11 June 2024" alt="EIMCOELECO – 11 June 2024" />
   <img src="setup_images/164-PDMJEPAPER_2026-01-28_19-21-52_977a5.png" width="500" title="PDMJEPAPER – 23 April 2024" alt="PDMJEPAPER – 23 April 2024" />
+  <img src="setup_images/165-POLYMED_2026-01-28_19-25-52_f4da4.png" width="500" title="POLYMED – 08 October 2024" alt="POLYMED – 08 October 2024" />
 </p>
