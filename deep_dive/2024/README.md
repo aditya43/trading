@@ -156,4 +156,5 @@
   <img src="setup_images/156-JINDALPOLY_2026-01-27_19-33-52_f5b3d.png" width="500" title="JINDALPOLY – 14 November 2024" alt="JINDALPOLY – 14 November 2024" />
   <img src="setup_images/157-LAXMICOT_2026-01-28_11-45-14_2f9c0.png" width="500" title="LAXMICOT – 01 January 2024" alt="LAXMICOT – 01 January 2024" />
   <img src="setup_images/158-UNICHEMLAB_2026-01-28_11-51-38_3bf39.png" width="500" title="UNICHEMLAB – 09 October 2024" alt="UNICHEMLAB – 09 October 2024" />
+  <img src="setup_images/159-SHAHALLOYS_2026-01-28_11-55-22_89b78.png" width="500" title="SHAHALLOYS – 04 January 2024" alt="SHAHALLOYS – 04 January 2024" />
 </p>
