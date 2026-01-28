@@ -164,4 +164,5 @@
   <img src="setup_images/164-PDMJEPAPER_2026-01-28_19-21-52_977a5.png" width="500" title="PDMJEPAPER – 23 April 2024" alt="PDMJEPAPER – 23 April 2024" />
   <img src="setup_images/165-POLYMED_2026-01-28_19-25-52_f4da4.png" width="500" title="POLYMED – 08 October 2024" alt="POLYMED – 08 October 2024" />
   <img src="setup_images/166-SKYGOLD_2026-01-28_19-27-43_69e64.png" width="500" title="SKYGOLD – 27 September 2024" alt="SKYGOLD – 27 September 2024" />
+  <img src="setup_images/167-PGIL_2026-01-28_19-31-06_dbc84.png" width="500" title="PGIL – 12 July 2024" alt="PGIL – 12 July 2024" />
 </p>
