@@ -172,4 +172,5 @@
   <img src="setup_images/172-HIMATSEIDE_2026-01-29_13-57-36_83098.png" width="500" title="HIMATSEIDE – 21 November 2024" alt="HIMATSEIDE – 21 November 2024" />
   <img src="setup_images/173-JINDALPHOT_2026-01-29_18-09-25_a6fa8.png" width="500" title="JINDALPHOT – 21 June 2024" alt="JINDALPHOT – 21 June 2024" />
   <img src="setup_images/174-UNIVASTU_2026-01-29_18-20-21_103af.png" width="500" title="UNIVASTU – 20 December 2024" alt="UNIVASTU – 20 December 2024" />
+  <img src="setup_images/175-ADSL_2026-01-29_18-39-52_4fb32.png" width="500" title="ADSL – 23 August 2024" alt="ADSL – 23 August 2024" />
 </p>
