@@ -170,4 +170,5 @@
   <img src="setup_images/170-MONARCH_2026-01-29_11-25-07_bf7a1.png" width="500" title="MONARCH – 08 August 2024" alt="MONARCH – 08 August 2024" />
   <img src="setup_images/171-CHAMBLFERT_2026-01-29_11-28-26_22991.png" width="500" title="CHAMBLFERT – 06 June 2024" alt="CHAMBLFERT – 06 June 2024" />
   <img src="setup_images/172-HIMATSEIDE_2026-01-29_13-57-36_83098.png" width="500" title="HIMATSEIDE – 21 November 2024" alt="HIMATSEIDE – 21 November 2024" />
+  <img src="setup_images/173-JINDALPHOT_2026-01-29_18-09-25_a6fa8.png" width="500" title="JINDALPHOT – 21 June 2024" alt="JINDALPHOT – 21 June 2024" />
 </p>
