@@ -173,4 +173,5 @@
   <img src="setup_images/173-JINDALPHOT_2026-01-29_18-09-25_a6fa8.png" width="500" title="JINDALPHOT – 21 June 2024" alt="JINDALPHOT – 21 June 2024" />
   <img src="setup_images/174-UNIVASTU_2026-01-29_18-20-21_103af.png" width="500" title="UNIVASTU – 20 December 2024" alt="UNIVASTU – 20 December 2024" />
   <img src="setup_images/175-ADSL_2026-01-29_18-39-52_4fb32.png" width="500" title="ADSL – 23 August 2024" alt="ADSL – 23 August 2024" />
+  <img src="setup_images/176-ALEMBICLTD_2026-01-29_18-45-46_8244e.png" width="500" title="ALEMBICLTD – 28 June 2024" alt="ALEMBICLTD – 28 June 2024" />
 </p>
