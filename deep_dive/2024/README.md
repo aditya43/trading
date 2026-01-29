@@ -167,4 +167,5 @@
   <img src="setup_images/167-PGIL_2026-01-28_19-31-06_dbc84.png" width="500" title="PGIL – 12 July 2024" alt="PGIL – 12 July 2024" />
   <img src="setup_images/168-SANGAMIND_2026-01-28_19-36-40_b857a.png" width="500" title="SANGAMIND – 19 January 2024" alt="SANGAMIND – 19 January 2024" />
   <img src="setup_images/169-NEWGEN_2026-01-29_11-21-48_b4224.png" width="500" title="NEWGEN – 09 September 2024" alt="NEWGEN – 09 September 2024" />
+  <img src="setup_images/170-MONARCH_2026-01-29_11-25-07_bf7a1.png" width="500" title="MONARCH – 08 August 2024" alt="MONARCH – 08 August 2024" />
 </p>
