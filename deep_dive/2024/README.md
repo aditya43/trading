@@ -166,4 +166,5 @@
   <img src="setup_images/166-SKYGOLD_2026-01-28_19-27-43_69e64.png" width="500" title="SKYGOLD – 27 September 2024" alt="SKYGOLD – 27 September 2024" />
   <img src="setup_images/167-PGIL_2026-01-28_19-31-06_dbc84.png" width="500" title="PGIL – 12 July 2024" alt="PGIL – 12 July 2024" />
   <img src="setup_images/168-SANGAMIND_2026-01-28_19-36-40_b857a.png" width="500" title="SANGAMIND – 19 January 2024" alt="SANGAMIND – 19 January 2024" />
+  <img src="setup_images/169-NEWGEN_2026-01-29_11-21-48_b4224.png" width="500" title="NEWGEN – 09 September 2024" alt="NEWGEN – 09 September 2024" />
 </p>
