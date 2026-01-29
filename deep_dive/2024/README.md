@@ -175,4 +175,5 @@
   <img src="setup_images/175-ADSL_2026-01-29_18-39-52_4fb32.png" width="500" title="ADSL – 23 August 2024" alt="ADSL – 23 August 2024" />
   <img src="setup_images/176-ALEMBICLTD_2026-01-29_18-45-46_8244e.png" width="500" title="ALEMBICLTD – 28 June 2024" alt="ALEMBICLTD – 28 June 2024" />
   <img src="setup_images/177-MCX_2026-01-29_18-51-15_91e1a.png" width="500" title="MCX – 07 August 2024" alt="MCX – 07 August 2024" />
+  <img src="setup_images/178-GILLANDERS_2026-01-29_18-56-54_4e59f.png" width="500" title="GILLANDERS – 05 January 2024" alt="GILLANDERS – 05 January 2024" />
 </p>
