@@ -177,4 +177,5 @@
   <img src="setup_images/177-MCX_2026-01-29_18-51-15_91e1a.png" width="500" title="MCX – 07 August 2024" alt="MCX – 07 August 2024" />
   <img src="setup_images/178-GILLANDERS_2026-01-29_18-56-54_4e59f.png" width="500" title="GILLANDERS – 05 January 2024" alt="GILLANDERS – 05 January 2024" />
   <img src="setup_images/179-NIRAJ_2026-01-29_19-20-09_14f1a.png" width="500" title="NIRAJ – 05 September 2024" alt="NIRAJ – 05 September 2024" />
+  <img src="setup_images/180-KFINTECH_2026-01-29_19-23-45_23f9d.png" width="500" title="KFINTECH – 07 August 2024" alt="KFINTECH – 07 August 2024" />
 </p>
