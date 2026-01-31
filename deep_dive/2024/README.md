@@ -190,4 +190,5 @@
   <img src="setup_images/190-SCI_2026-01-31_20-21-11_c591e.png" width="500" title="SCI – 09 July 2024" alt="SCI – 09 July 2024" />
   <img src="setup_images/191-AMBER_2026-01-31_20-25-23_5c730.png" width="500" title="AMBER – 08 October 2024" alt="AMBER – 08 October 2024" />
   <img src="setup_images/192-SBGLP_2026-01-31_20-34-00_f8a49.png" width="500" title="SBGLP – 21 March 2024" alt="SBGLP – 21 March 2024" />
+  <img src="setup_images/193-KSB_2026-01-31_21-28-26_39f72.png" width="500" title="KSB – 20 March 2024" alt="KSB – 20 March 2024" />
 </p>
