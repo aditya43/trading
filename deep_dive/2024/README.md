@@ -186,4 +186,5 @@
   <img src="setup_images/186-WABAG_2026-01-31_12-10-34_005cc.png" width="500" title="WABAG – 26 March 2024" alt="WABAG – 26 March 2024" />
   <img src="setup_images/187-PILANIINVS_2026-01-31_12-17-20_bfbc0.png" width="500" title="PILANIINVS – 12 June 2024" alt="PILANIINVS – 12 June 2024" />
   <img src="setup_images/188-KIRLOSENG_2026-01-31_12-20-58_f0da3.png" width="500" title="KIRLOSENG – 25 January 2024" alt="KIRLOSENG – 25 January 2024" />
+  <img src="setup_images/189-PARSVNATH_2026-01-31_12-35-28_7e042.png" width="500" title="PARSVNATH – 18 January 2024" alt="PARSVNATH – 18 January 2024" />
 </p>
