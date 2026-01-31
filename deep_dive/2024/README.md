@@ -188,4 +188,5 @@
   <img src="setup_images/188-KIRLOSENG_2026-01-31_12-20-58_f0da3.png" width="500" title="KIRLOSENG – 25 January 2024" alt="KIRLOSENG – 25 January 2024" />
   <img src="setup_images/189-PARSVNATH_2026-01-31_12-35-28_7e042.png" width="500" title="PARSVNATH – 18 January 2024" alt="PARSVNATH – 18 January 2024" />
   <img src="setup_images/190-SCI_2026-01-31_20-21-11_c591e.png" width="500" title="SCI – 09 July 2024" alt="SCI – 09 July 2024" />
+  <img src="setup_images/191-AMBER_2026-01-31_20-25-23_5c730.png" width="500" title="AMBER – 08 October 2024" alt="AMBER – 08 October 2024" />
 </p>
