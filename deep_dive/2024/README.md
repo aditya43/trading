@@ -179,6 +179,6 @@
   <img src="setup_images/179-NIRAJ_2026-01-29_19-20-09_14f1a.png" width="500" title="NIRAJ – 05 September 2024" alt="NIRAJ – 05 September 2024" />
   <img src="setup_images/180-KFINTECH_2026-01-29_19-23-45_23f9d.png" width="500" title="KFINTECH – 07 August 2024" alt="KFINTECH – 07 August 2024" />
   <img src="setup_images/181-DPABHUSHAN_2026-01-29_19-26-15_e8c52.png" width="500" title="DPABHUSHAN – 28 March 2024" alt="DPABHUSHAN – 28 March 2024" />
-  <img src="setup_images/182-MANINDS_2026-01-29_19-33-26_cd0b0.png" width="500" title="MANINDS – 2024-01-01" alt="MANINDS – 2024-01-01" />
+  <img src="setup_images/182-MANINDS_2026-01-29_19-33-26_cd0b0.png" width="500" title="MANINDS – 01 January 2024" alt="MANINDS – 01 January 2024" />
   <img src="setup_images/183-HERANBA_2026--01-31_11-53-12_1e157.png" width="500" title="HERANBA – 08 August 2024" alt="HERANBA – 08 August 2024" />
 </p>
