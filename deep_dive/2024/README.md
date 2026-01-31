@@ -183,4 +183,5 @@
   <img src="setup_images/183-HERANBA_2026--01-31_11-53-12_1e157.png" width="500" title="HERANBA – 08 August 2024" alt="HERANBA – 08 August 2024" />
   <img src="setup_images/184-ENIL_2026-01-31_12-00-12_f7c10.png" width="500" title="ENIL – 01 January 2024" alt="ENIL – 01 January 2024" />
   <img src="setup_images/185-CARBORUNIV_2026-01-31_12-07-05_e88de.png" width="500" title="CARBORUNIV – 16 April 2024" alt="CARBORUNIV – 16 April 2024" />
+  <img src="setup_images/186-WABAG_2026-01-31_12-10-34_005cc.png" width="500" title="WABAG – 26 March 2024" alt="WABAG – 26 March 2024" />
 </p>
