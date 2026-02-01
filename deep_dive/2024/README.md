@@ -200,4 +200,5 @@
   <img src="setup_images/200-WOCKPHARMA_2026-02-01_13-47-42_c5b9a.png" width="500" title="WOCKPHARMA – 15 February 2024" alt="WOCKPHARMA – 15 February 2024" />
   <img src="setup_images/201-RANEHOLDIN_2026-02-01_18-04-47_a1658.png" width="500" title="RANEHOLDIN – 16 August 2024" alt="RANEHOLDIN – 16 August 2024" />
   <img src="setup_images/202-ZENTEC_2026-02-01_18-15-26_02863.png" width="500" title="ZENTEC – 05 December 2024" alt="ZENTEC – 05 December 2024" />
+  <img src="setup_images/203-SASKEN_2026-02-01_18-20-30_bee0a.png" width="500" title="SASKEN – 31 October 2024" alt="SASKEN – 31 October 2024" />
 </p>
