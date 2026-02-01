@@ -196,4 +196,5 @@
   <img src="setup_images/196-ZAGGLE_2026-02-01_13-17-07_33f87.png" width="500" title="ZAGGLE – 04 September 2024" alt="ZAGGLE – 04 September 2024" />
   <img src="setup_images/197-JKTYRE_2026-02-01_13-19-32_abb47.png" width="500" title="JKTYRE – 11 January 2024" alt="JKTYRE – 11 January 2024" />
   <img src="setup_images/198-THANGAMAYL_2026-02-01_13-24-26_d6ae7.png" width="500" title="THANGAMAYL – 20 August 2024" alt="THANGAMAYL – 20 August 2024" />
+  <img src="setup_images/199-WANBURY_2026-02-01_13-30-26_4f814.png" width="500" title="WANBURY – 02 July 2024" alt="WANBURY – 02 July 2024" />
 </p>
