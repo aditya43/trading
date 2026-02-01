@@ -199,4 +199,5 @@
   <img src="setup_images/199-WANBURY_2026-02-01_13-30-26_4f814.png" width="500" title="WANBURY – 02 July 2024" alt="WANBURY – 02 July 2024" />
   <img src="setup_images/200-WOCKPHARMA_2026-02-01_13-47-42_c5b9a.png" width="500" title="WOCKPHARMA – 15 February 2024" alt="WOCKPHARMA – 15 February 2024" />
   <img src="setup_images/201-RANEHOLDIN_2026-02-01_18-04-47_a1658.png" width="500" title="RANEHOLDIN – 16 August 2024" alt="RANEHOLDIN – 16 August 2024" />
+  <img src="setup_images/202-UNOMINDA_2026-02-01_18-07-41_45043.png" width="500" title="UNOMINDA – 05 June 2024" alt="UNOMINDA – 05 June 2024" />
 </p>
