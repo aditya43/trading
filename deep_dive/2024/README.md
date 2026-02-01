@@ -203,4 +203,5 @@
   <img src="setup_images/203-SASKEN_2026-02-01_18-20-30_bee0a.png" width="500" title="SASKEN – 31 October 2024" alt="SASKEN – 31 October 2024" />
   <img src="setup_images/204-GOKULAGRO_2026-02-01_18-23-01_0e3d7.png" width="500" title="GOKULAGRO – 28 August 2024" alt="GOKULAGRO – 28 August 2024" />
   <img src="setup_images/205-AJMERA_2026-02-01_18-24-50_083ae.png" width="500" title="AJMERA – 30 January 2024" alt="AJMERA – 30 January 2024" />
+  <img src="setup_images/206-SOMICONVEY_2026-02-01_18-30-46_83660.png" width="500" title="SOMICONVEY – 07 March 2024" alt="SOMICONVEY – 07 March 2024" />
 </p>
