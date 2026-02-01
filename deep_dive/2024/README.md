@@ -192,4 +192,5 @@
   <img src="setup_images/192-SBGLP_2026-01-31_20-34-00_f8a49.png" width="500" title="SBGLP – 21 March 2024" alt="SBGLP – 21 March 2024" />
   <img src="setup_images/193-KSB_2026-01-31_21-28-26_39f72.png" width="500" title="KSB – 20 March 2024" alt="KSB – 20 March 2024" />
   <img src="setup_images/194-BVCL_2026-02-01_13-06-47_458a3.png" width="500" title="BVCL – 25 January 2024" alt="BVCL – 25 January 2024" />
+  <img src="setup_images/195-VLEGOV_2026-02-01_13-13-32_7e6c5.png" width="500" title="VLEGOV – 02 July 2024" alt="VLEGOV – 02 July 2024" />
 </p>
