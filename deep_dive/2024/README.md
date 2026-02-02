@@ -209,4 +209,5 @@
   <img src="setup_images/209-NPST_2026-02-02_12-07-58_49570.png" width="500" title="NPST – 18 April 2024" alt="NPST – 18 April 2024" />
   <img src="setup_images/210-BANKINDIA_2026-02-02_13-28-19_12350.png" width="500" title="BANKINDIA – 01 January 2024" alt="BANKINDIA – 01 January 2024" />
   <img src="setup_images/211-PDMJEPAPER_2026-02-02_13-31-55_2fdb0.png" width="500" title="PDMJEPAPER – 12 June 2024" alt="PDMJEPAPER – 12 June 2024" />
+  <img src="setup_images/212-GEOJITFSL_2026-02-02_14-24-31_7567c.png" width="500" title="GEOJITFSL – 18 April 2024" alt="GEOJITFSL – 18 April 2024" />
 </p>
