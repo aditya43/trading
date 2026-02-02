@@ -213,4 +213,5 @@
   <img src="setup_images/213-RGL_2026-02-02_14-28-39_6537b.png" width="500" title="RGL – 09 October 2024" alt="RGL – 09 October 2024" />
   <img src="setup_images/214-SHAILY_2026-02-02_14-32-33_b2f8a.png" width="500" title="SHAILY – 26 November 2024" alt="SHAILY – 26 November 2024" />
   <img src="setup_images/215-TIIL_2026-02-02_14-36-00_07e54.png" width="500" title="TIIL – 25 July 2024" alt="TIIL – 25 July 2024" />
+  <img src="setup_images/216-JIOFIN_2026-02-02_14-57-42_63694.png" width="500" title="JIOFIN – 14 February 2024" alt="JIOFIN – 14 February 2024" />
 </p>
