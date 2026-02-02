@@ -211,4 +211,5 @@
   <img src="setup_images/211-PDMJEPAPER_2026-02-02_13-31-55_2fdb0.png" width="500" title="PDMJEPAPER – 12 June 2024" alt="PDMJEPAPER – 12 June 2024" />
   <img src="setup_images/212-GEOJITFSL_2026-02-02_14-24-31_7567c.png" width="500" title="GEOJITFSL – 18 April 2024" alt="GEOJITFSL – 18 April 2024" />
   <img src="setup_images/213-RGL_2026-02-02_14-28-39_6537b.png" width="500" title="RGL – 09 October 2024" alt="RGL – 09 October 2024" />
+  <img src="setup_images/214-SHAILY_2026-02-02_14-32-33_b2f8a.png" width="500" title="SHAILY – 26 November 2024" alt="SHAILY – 26 November 2024" />
 </p>
