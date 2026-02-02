@@ -214,4 +214,5 @@
   <img src="setup_images/214-SHAILY_2026-02-02_14-32-33_b2f8a.png" width="500" title="SHAILY – 26 November 2024" alt="SHAILY – 26 November 2024" />
   <img src="setup_images/215-TIIL_2026-02-02_14-36-00_07e54.png" width="500" title="TIIL – 25 July 2024" alt="TIIL – 25 July 2024" />
   <img src="setup_images/216-JIOFIN_2026-02-02_14-57-42_63694.png" width="500" title="JIOFIN – 14 February 2024" alt="JIOFIN – 14 February 2024" />
+  <img src="setup_images/217-SKIPPER_2026-02-02_15-01-37_9cd5f.png" width="500" title="SKIPPER – 15 February 2024" alt="SKIPPER – 15 February 2024" />
 </p>
