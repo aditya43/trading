@@ -208,4 +208,5 @@
   <img src="setup_images/208-POWERINDIA_2026-02-01_18-36-14_c6d25.png" width="500" title="POWERINDIA – 10 June 2024" alt="POWERINDIA – 10 June 2024" />
   <img src="setup_images/209-NPST_2026-02-02_12-07-58_49570.png" width="500" title="NPST – 18 April 2024" alt="NPST – 18 April 2024" />
   <img src="setup_images/210-BANKINDIA_2026-02-02_13-28-19_12350.png" width="500" title="BANKINDIA – 01 January 2024" alt="BANKINDIA – 01 January 2024" />
+  <img src="setup_images/211-PDMJEPAPER_2026-02-02_13-31-55_2fdb0.png" width="500" title="PDMJEPAPER – 12 June 2024" alt="PDMJEPAPER – 12 June 2024" />
 </p>
