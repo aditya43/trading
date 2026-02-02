@@ -216,4 +216,5 @@
   <img src="setup_images/216-JIOFIN_2026-02-02_14-57-42_63694.png" width="500" title="JIOFIN – 14 February 2024" alt="JIOFIN – 14 February 2024" />
   <img src="setup_images/217-SKIPPER_2026-02-02_15-01-37_9cd5f.png" width="500" title="SKIPPER – 15 February 2024" alt="SKIPPER – 15 February 2024" />
   <img src="setup_images/218-JSLL_2026-02-02_15-07-11_212ee.png" width="500" title="JSLL – 22 March 2024" alt="JSLL – 22 March 2024" />
+  <img src="setup_images/219-BASF_2026-02-02_19-51-55_ce432.png" width="500" title="BASF – 06 June 2024" alt="BASF – 06 June 2024" />
 </p>
