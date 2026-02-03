@@ -226,4 +226,5 @@
   <img src="setup_images/226-COMPUSOFT_2026-02-03_18-24-59_cc6d8.png" width="500" title="COMPUSOFT – 22 April 2024" alt="COMPUSOFT – 22 April 2024" />
   <img src="setup_images/227-USK_2026-02-03_18-27-58_49e4d.png" width="500" title="USK – 25 January 2024" alt="USK – 25 January 2024" />
   <img src="setup_images/228-AVONMORE_2026-02-03_18-35-16_d5fda.png" width="500" title="AVONMORE – 19 January 2024" alt="AVONMORE – 19 January 2024" />
+  <img src="setup_images/229-PRECOT_2026-02-03_18-39-04_dd9a2.png" width="500" title="PRECOT – 12 June 2024" alt="PRECOT – 12 June 2024" />
 </p>
