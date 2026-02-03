@@ -221,4 +221,5 @@
   <img src="setup_images/221-BSL_2026-02-03_11-37-54_80a4c.png" width="500" title="BSL – 02 December 2024" alt="BSL – 02 December 2024" />
   <img src="setup_images/222-SJS_2026-02-03_11-40-21_e8e78.png" width="500" title="SJS – 29 July 2024" alt="SJS – 29 July 2024" />
   <img src="setup_images/223-NIRAJ_2026-02-03_11-45-00_95f3e.png" width="500" title="NIRAJ – 2024-01-19" alt="NIRAJ – 2024-01-19" />
+  <img src="setup_images/224-NCC_2026-02-03_11-51-23_bb28d.png" width="500" title="NCC – 01 January 2024" alt="NCC – 01 January 2024" />
 </p>
