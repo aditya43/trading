@@ -229,4 +229,5 @@
   <img src="setup_images/229-PRECOT_2026-02-03_18-39-04_dd9a2.png" width="500" title="PRECOT – 12 June 2024" alt="PRECOT – 12 June 2024" />
   <img src="setup_images/230-KOTHARIPRO_2026-02-03_18-44-40_48564.png" width="500" title="KOTHARIPRO – 03 July 2024" alt="KOTHARIPRO – 03 July 2024" />
   <img src="setup_images/231-IMPAL_2026-02-03_18-47-27_9fa38.png" width="500" title="IMPAL – 23 July 2024" alt="IMPAL – 23 July 2024" />
+  <img src="setup_images/232-GPTINFRA_2026-02-03_18-52-30_b1a18.png" width="500" title="GPTINFRA – 23 April 2024" alt="GPTINFRA – 23 April 2024" />
 </p>
