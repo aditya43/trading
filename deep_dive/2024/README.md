@@ -218,4 +218,5 @@
   <img src="setup_images/218-JSLL_2026-02-02_15-07-11_212ee.png" width="500" title="JSLL – 22 March 2024" alt="JSLL – 22 March 2024" />
   <img src="setup_images/219-BASF_2026-02-02_19-51-55_ce432.png" width="500" title="BASF – 06 June 2024" alt="BASF – 06 June 2024" />
   <img src="setup_images/220-NIACL_2026-02-03_11-34-39_85f94.png" width="500" title="NIACL – 29 January 2024" alt="NIACL – 29 January 2024" />
+  <img src="setup_images/221-BSL_2026-02-03_11-37-54_80a4c.png" width="500" title="BSL – 02 December 2024" alt="BSL – 02 December 2024" />
 </p>
