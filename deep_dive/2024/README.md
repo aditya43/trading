@@ -232,4 +232,5 @@
   <img src="setup_images/232-GPTINFRA_2026-02-03_18-52-30_b1a18.png" width="500" title="GPTINFRA – 23 April 2024" alt="GPTINFRA – 23 April 2024" />
   <img src="setup_images/233-ENGINERSIN_2026-02-03_19-07-43_200c7.png" width="500" title="ENGINERSIN – 10 January 2024" alt="ENGINERSIN – 10 January 2024" />
   <img src="setup_images/234-PAYTM_2026-02-04_13-58-00_03efc.png" width="500" title="PAYTM – 18 November 2024" alt="PAYTM – 18 November 2024" />
+  <img src="setup_images/235-KOKUYOCMLN_2026-02-04_14-14-33_e6742.png" width="500" title="KOKUYOCMLN – 16 August 2024" alt="KOKUYOCMLN – 16 August 2024" />
 </p>
