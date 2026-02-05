@@ -234,4 +234,5 @@
   <img src="setup_images/234-PAYTM_2026-02-04_13-58-00_03efc.png" width="500" title="PAYTM – 18 November 2024" alt="PAYTM – 18 November 2024" />
   <img src="setup_images/235-KOKUYOCMLN_2026-02-04_14-14-33_e6742.png" width="500" title="KOKUYOCMLN – 16 August 2024" alt="KOKUYOCMLN – 16 August 2024" />
   <img src="setup_images/236-CENTRALBK_2026-02-04_14-24-42_b0dbf.png" width="500" title="CENTRALBK – 31 January 2024" alt="CENTRALBK – 31 January 2024" />
+  <img src="setup_images/237-AMBER_2026-02-05_11-20-14_b9375.png" width="500" title="AMBER – 18 December 2024" alt="AMBER – 18 December 2024" />
 </p>
