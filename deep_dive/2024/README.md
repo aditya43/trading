@@ -238,4 +238,5 @@
   <img src="setup_images/238-IRFC_2026-02-05_12-22-33_a00fb.png" width="500" title="IRFC – 13 May 2024" alt="IRFC – 13 May 2024" />
   <img src="setup_images/239-PLASTIBLEN_2026-02-05_12-32-05_7d31f.png" width="500" title="PLASTIBLEN – 20 August 2024" alt="PLASTIBLEN – 20 August 2024" />
   <img src="setup_images/240-THERMAX_2026-02-05_12-37-34_360c2.png" width="500" title="THERMAX – 20 March 2024" alt="THERMAX – 20 March 2024" />
+  <img src="setup_images/241-GABRIEL_2026-02-05_19-10-59_23a84.png" width="500" title="GABRIEL – 10 June 2024" alt="GABRIEL – 10 June 2024" />
 </p>
