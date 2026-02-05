@@ -240,4 +240,5 @@
   <img src="setup_images/240-THERMAX_2026-02-05_12-37-34_360c2.png" width="500" title="THERMAX – 20 March 2024" alt="THERMAX – 20 March 2024" />
   <img src="setup_images/241-GABRIEL_2026-02-05_19-10-59_23a84.png" width="500" title="GABRIEL – 10 June 2024" alt="GABRIEL – 10 June 2024" />
   <img src="setup_images/242-GMRP&UI_2026-02-05_19-25-17_9bd28.png" width="500" title="GMRP&UI – 18 April 2024" alt="GMRP&UI – 18 April 2024" />
+  <img src="setup_images/243-RPEL_2026-02-05_19-30-02_131c3.png" width="500" title="RPEL – 31 October 2024" alt="RPEL – 31 October 2024" />
 </p>
