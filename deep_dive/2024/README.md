@@ -242,4 +242,5 @@
   <img src="setup_images/242-GMRP&UI_2026-02-05_19-25-17_9bd28.png" width="500" title="GMRP&UI – 18 April 2024" alt="GMRP&UI – 18 April 2024" />
   <img src="setup_images/243-RPEL_2026-02-05_19-30-02_131c3.png" width="500" title="RPEL – 31 October 2024" alt="RPEL – 31 October 2024" />
   <img src="setup_images/244-SPENCERS_2026-02-05_19-33-21_da081.png" width="500" title="SPENCERS – 19 January 2024" alt="SPENCERS – 19 January 2024" />
+  <img src="setup_images/245-CAPTRUST_2026-02-05_19-37-23_58866.png" width="500" title="CAPTRUST – 19 August 2024" alt="CAPTRUST – 19 August 2024" />
 </p>
