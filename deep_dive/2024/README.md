@@ -235,4 +235,5 @@
   <img src="setup_images/235-KOKUYOCMLN_2026-02-04_14-14-33_e6742.png" width="500" title="KOKUYOCMLN – 16 August 2024" alt="KOKUYOCMLN – 16 August 2024" />
   <img src="setup_images/236-CENTRALBK_2026-02-04_14-24-42_b0dbf.png" width="500" title="CENTRALBK – 31 January 2024" alt="CENTRALBK – 31 January 2024" />
   <img src="setup_images/237-AMBER_2026-02-05_11-20-14_b9375.png" width="500" title="AMBER – 18 December 2024" alt="AMBER – 18 December 2024" />
+  <img src="setup_images/238-IRFC_2026-02-05_12-22-33_a00fb.png" width="500" title="IRFC – 13 May 2024" alt="IRFC – 13 May 2024" />
 </p>
