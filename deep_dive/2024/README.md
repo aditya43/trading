@@ -1,6 +1,11 @@
 # 2024 Deep Dive
-## 📊 Setups: Episodic Pivots (EP), Flags, Pullbacks, Medium Term Base Breakouts, Shakeouts
 
+## Important Notes
+<p float="left">
+  <img src="setup_images/00-PASUPTAC_2026-02-06_14-05-21_66465.png" width="500" title="PASUPTAC – 05 September 2024" alt="PASUPTAC – 05 September 2024" />
+</p>
+
+## 📊 Setups: Episodic Pivots (EP), Flags, Pullbacks, Medium Term Base Breakouts, Shakeouts
 <p float="left">
   <img src="setup_images/01-MTNL_2026-01-17_11-30-46_e278a.png" width="500" title="MTNL – 05 July 2024" alt="MTNL – 05 July 2024" />
   <img src="setup_images/02-IFCI_2026-01-17_12-05-01_17dfa.png" width="500" title="IFCI – 01 January 2024" alt="IFCI – 01 January 2024" />
