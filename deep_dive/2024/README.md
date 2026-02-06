@@ -251,4 +251,5 @@
   <img src="setup_images/245-CAPTRUST_2026-02-05_19-37-23_58866.png" width="500" title="CAPTRUST – 19 August 2024" alt="CAPTRUST – 19 August 2024" />
   <img src="setup_images/246-FIBERWEB_2026-02-05_19-59-04_0803c.png" width="500" title="FIBERWEB – 25 November 2024" alt="FIBERWEB – 25 November 2024" />
   <img src="setup_images/247-AIROLAM_2026-02-06_13-55-00_d9d15.png" width="500" title="AIROLAM – 14 February 2024" alt="AIROLAM – 14 February 2024" />
+  <img src="setup_images/248-DCAL_2026-02-06_14-12-48_4884a.png" width="500" title="DCAL – 19 February 2024" alt="DCAL – 19 February 2024" />
 </p>
