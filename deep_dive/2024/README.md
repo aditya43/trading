@@ -3,6 +3,7 @@
 ## Important Notes
 <p float="left">
   <img src="setup_images/00-PASUPTAC_2026-02-06_14-05-21_66465.png" width="500" title="PASUPTAC – 05 September 2024" alt="PASUPTAC – 05 September 2024" />
+  <img src="setup_images/00-OSWALGREEN_2026-02-06_14-09-21_3cefa.png" width="500" title="OSWALGREEN – 11 September 2024" alt="OSWALGREEN – 11 September 2024" />
 </p>
 
 ## 📊 Setups: Episodic Pivots (EP), Flags, Pullbacks, Medium Term Base Breakouts, Shakeouts
