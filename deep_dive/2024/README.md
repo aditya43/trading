@@ -265,4 +265,5 @@
   <img src="setup_images/259-TEXRAIL_2026-02-07_11-31-04_8d5ac.png" width="500" title="TEXRAIL – 04 January 2024" alt="TEXRAIL – 04 January 2024" />
   <img src="setup_images/260-JUBLPHARMA_2026-02-07_11-35-06_41dd4.png" width="500" title="JUBLPHARMA – 05 September 2024" alt="JUBLPHARMA – 05 September 2024" />
   <img src="setup_images/261-TARC_2026-02-07_18-34-28_f8a6f.png" width="500" title="TARC – 01 January 2024" alt="TARC – 01 January 2024" />
+  <img src="setup_images/262-GICHSGFIN_2026-02-07_18-38-02_e7d64.png" width="500" title="GICHSGFIN – 10 January 2024" alt="GICHSGFIN – 10 January 2024" />
 </p>
