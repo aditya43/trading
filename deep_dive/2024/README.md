@@ -254,4 +254,5 @@
   <img src="setup_images/248-DCAL_2026-02-06_14-12-48_4884a.png" width="500" title="DCAL – 19 February 2024" alt="DCAL – 19 February 2024" />
   <img src="setup_images/249-MEDANTA_2026-02-07_09-31-47_fb57a.png" width="500" title="MEDANTA – 30 January 2024" alt="MEDANTA – 30 January 2024" />
   <img src="setup_images/250-UNIVASTU_2026-02-07_09-33-49_c96d3.png" width="500" title="UNIVASTU – 26 April 2024" alt="UNIVASTU – 26 April 2024" />
+  <img src="setup_images/251-OPTIEMUS_2026-02-07_09-35-27_6add3.png" width="500" title="OPTIEMUS – 02 July 2024" alt="OPTIEMUS – 02 July 2024" />
 </p>
