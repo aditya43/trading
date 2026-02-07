@@ -252,4 +252,5 @@
   <img src="setup_images/246-FIBERWEB_2026-02-05_19-59-04_0803c.png" width="500" title="FIBERWEB – 25 November 2024" alt="FIBERWEB – 25 November 2024" />
   <img src="setup_images/247-AIROLAM_2026-02-06_13-55-00_d9d15.png" width="500" title="AIROLAM – 14 February 2024" alt="AIROLAM – 14 February 2024" />
   <img src="setup_images/248-DCAL_2026-02-06_14-12-48_4884a.png" width="500" title="DCAL – 19 February 2024" alt="DCAL – 19 February 2024" />
+  <img src="setup_images/249-MEDANTA_2026-02-07_09-31-47_fb57a.png" width="500" title="MEDANTA – 30 January 2024" alt="MEDANTA – 30 January 2024" />
 </p>
