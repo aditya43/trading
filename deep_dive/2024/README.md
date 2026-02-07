@@ -261,4 +261,5 @@
   <img src="setup_images/255-JAGSNPHARM_2026-02-07_10-56-55_62ec1.png" width="500" title="JAGSNPHARM – 29 October 2024" alt="JAGSNPHARM – 29 October 2024" />
   <img src="setup_images/256-VADILALIND_2026-02-07_11-10-14_d45de.png" width="500" title="VADILALIND – 15 March 2024" alt="VADILALIND – 15 March 2024" />
   <img src="setup_images/257-DCMSRIND_2026-02-07_11-14-16_f6b39.png" width="500" title="DCMSRIND – 01 January 2024" alt="DCMSRIND – 01 January 2024" />
+  <img src="setup_images/258-SHK_2026-02-07_11-19-07_2245a.png" width="500" title="SHK – 05 February 2024" alt="SHK – 05 February 2024" />
 </p>
