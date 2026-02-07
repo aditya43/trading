@@ -257,4 +257,5 @@
   <img src="setup_images/251-OPTIEMUS_2026-02-07_09-35-27_6add3.png" width="500" title="OPTIEMUS – 02 July 2024" alt="OPTIEMUS – 02 July 2024" />
   <img src="setup_images/252-PTCIL_2026-02-07_09-50-16_3d73d.png" width="500" title="PTCIL – 29 January 2024" alt="PTCIL – 29 January 2024" />
   <img src="setup_images/253-IOC_2026-02-07_10-49-48_e7821.png" width="500" title="IOC – 31 January 2024" alt="IOC – 31 January 2024" />
+  <img src="setup_images/254-DYNAMATECH_2026-02-07_10-53-44_23e69.png" width="500" title="DYNAMATECH – 21 March 2024" alt="DYNAMATECH – 21 March 2024" />
 </p>
