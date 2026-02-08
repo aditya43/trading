@@ -271,4 +271,5 @@
   <img src="setup_images/265-VISAKAIND_2026-02-07_18-59-23_7b414.png" width="500" title="VISAKAIND – 19 January 2024" alt="VISAKAIND – 19 January 2024" />
   <img src="setup_images/266-ACE_2026-02-08_17-49-40_c1886.png" width="500" title="ACE – 18 March 2024" alt="ACE – 18 March 2024" />
   <img src="setup_images/267-ROHLTD_2026-02-08_17-52-04_0afe8.png" width="500" title="ROHLTD – 23 January 2024" alt="ROHLTD – 23 January 2024" />
+  <img src="setup_images/268-KAYNES_2026-02-08_18-01-01_e7b4e.png" width="500" title="KAYNES – 22 November 2024" alt="KAYNES – 22 November 2024" />
 </p>
