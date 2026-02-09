@@ -276,4 +276,5 @@
   <img src="setup_images/270-PNCINFRA_2026-02-09_12-09-03_7007d.png" width="500" title="PNCINFRA – 14 May 2024" alt="PNCINFRA – 14 May 2024" />
   <img src="setup_images/271-PNBGILTS_2026-02-09_12-18-01_9fad0.png" width="500" title="PNBGILTS – 20 June 2024" alt="PNBGILTS – 20 June 2024" />
   <img src="setup_images/272-GOKULAGRO_2026-02-09_12-24-20_8eef7.png" width="500" title="GOKULAGRO – 25 July 2024" alt="GOKULAGRO – 25 July 2024" />
+  <img src="setup_images/273-ANANDRATHI_2026-02-09_13-13-28_8a3fc.png" width="500" title="ANANDRATHI – 18 January 2024" alt="ANANDRATHI – 18 January 2024" />
 </p>
