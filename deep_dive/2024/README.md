@@ -274,4 +274,5 @@
   <img src="setup_images/268-KAYNES_2026-02-08_18-01-01_e7b4e.png" width="500" title="KAYNES – 22 November 2024" alt="KAYNES – 22 November 2024" />
   <img src="setup_images/269-KFINTECH_2026-02-08_18-04-29_e20e3.png" width="500" title="KFINTECH – 17 December 2024" alt="KFINTECH – 17 December 2024" />
   <img src="setup_images/270-PNCINFRA_2026-02-09_12-09-03_7007d.png" width="500" title="PNCINFRA – 14 May 2024" alt="PNCINFRA – 14 May 2024" />
+  <img src="setup_images/271-PNBGILTS_2026-02-09_12-18-01_9fad0.png" width="500" title="PNBGILTS – 20 June 2024" alt="PNBGILTS – 20 June 2024" />
 </p>
