@@ -1,4 +1,3 @@
-# Trading
 Aditya Hajare's trading journal and deep dive studies.
 
 # My Trades
