@@ -278,4 +278,5 @@
   <img src="setup_images/272-GOKULAGRO_2026-02-09_12-24-20_8eef7.png" width="500" title="GOKULAGRO – 25 July 2024" alt="GOKULAGRO – 25 July 2024" />
   <img src="setup_images/273-ANANDRATHI_2026-02-09_13-13-28_8a3fc.png" width="500" title="ANANDRATHI – 18 January 2024" alt="ANANDRATHI – 18 January 2024" />
   <img src="setup_images/274-MANORAMA_2026-02-09_13-36-51_e8c1d.png" width="500" title="MANORAMA – 07 August 2024" alt="MANORAMA – 07 August 2024" />
+  <img src="setup_images/275-URJA_2026-02-09_13-53-55_cacde.png" width="500" title="URJA – 01 January 2024" alt="URJA – 01 January 2024" />
 </p>
