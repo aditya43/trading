@@ -1,7 +1,7 @@
 // ===== INPUTS =====
-const accountSize = 100000;        // Set account size
-const buyTriggerPrice = 639.1;   // <-- Set Buy trigger price
-const sl = 619;                // <-- Set SL price
+const accountSize = 50000;        // Set account size
+const buyTriggerPrice = 65.71;   // <-- Set Buy trigger price
+const sl = 63;                // <-- Set SL price
 
 const TICK_SIZE = 0.1;
 
