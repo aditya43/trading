@@ -281,4 +281,5 @@
   <img src="setup_images/275-URJA_2026-02-09_13-53-55_cacde.png" width="500" title="URJA – 01 January 2024" alt="URJA – 01 January 2024" />
   <img src="setup_images/276-ANIKINDS_2026-02-09_13-58-44_fbe7d.png" width="500" title="ANIKINDS – 10 July 2024" alt="ANIKINDS – 10 July 2024" />
   <img src="setup_images/277-FINOPB_2026-02-11_13-13-57_d7142.png" width="500" title="FINOPB – 20 August 2024" alt="FINOPB – 20 August 2024" />
+  <img src="setup_images/278-COCHINSHIP_2026-02-11_13-18-20_40572.png" width="500" title="COCHINSHIP – 01 July 2024" alt="COCHINSHIP – 01 July 2024" />
 </p>
