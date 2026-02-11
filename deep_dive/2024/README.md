@@ -284,4 +284,5 @@
   <img src="setup_images/278-COCHINSHIP_2026-02-11_13-18-20_40572.png" width="500" title="COCHINSHIP – 01 July 2024" alt="COCHINSHIP – 01 July 2024" />
   <img src="setup_images/279-MOHITIND_2026-02-11_13-21-45_fee4a.png" width="500" title="MOHITIND – 19 December 2024" alt="MOHITIND – 19 December 2024" />
   <img src="setup_images/280-ASTRAMICRO_2026-02-11_13-27-31_ae4f0.png" width="500" title="ASTRAMICRO – 14 May 2024" alt="ASTRAMICRO – 14 May 2024" />
+  <img src="setup_images/281-TORNTPOWER_2026-02-11_13-34-09_369ca.png" width="500" title="TORNTPOWER – 21 March 2024" alt="TORNTPOWER – 21 March 2024" />
 </p>
