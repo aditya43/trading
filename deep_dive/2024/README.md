@@ -292,4 +292,5 @@
   <img src="setup_images/286-ASHIMASYN_2026-02-12_13-04-25_ee847.png" width="500" title="ASHIMASYN – 01 January 2024" alt="ASHIMASYN – 01 January 2024" />
   <img src="setup_images/287-REFEX_2026-02-12_17-50-37_30862.png" width="500" title="REFEX – 09 July 2024" alt="REFEX – 09 July 2024" />
   <img src="setup_images/288-GVT&D_2026-02-12_17-53-46_86afc.png" width="500" title="GVT&D – 30 January 2024" alt="GVT&D – 30 January 2024" />
+  <img src="setup_images/289-TRANSWORLD_2026-02-12_21-06-19_f9f19.png" width="500" title="TRANSWORLD – 25 November 2024" alt="TRANSWORLD – 25 November 2024" />
 </p>
