@@ -1,7 +1,7 @@
 # GRAPHITE - 10 February 2026
 ----
 ## Trade Management Updates
-- *[12 Feb 2026] SL Moved to new 3-Candle Pivot low. Trade is will end in profit now even if SL gets hit.*
+- *[12 Feb 2026] SL Moved to new 3-Candle Pivot low. Reasons: Market breadth looking weak and a new 3-Candle Pivot formed.*
 
 ## Entry Setup:
 <img src="Entry-Setup-GRAPHITE_2026-02-09.png" title="GRAPHITE - 10 February 2026" alt="GRAPHITE - 10 February 2026" />
