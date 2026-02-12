@@ -286,4 +286,5 @@
   <img src="setup_images/280-ASTRAMICRO_2026-02-11_13-27-31_ae4f0.png" width="500" title="ASTRAMICRO – 14 May 2024" alt="ASTRAMICRO – 14 May 2024" />
   <img src="setup_images/281-TORNTPOWER_2026-02-11_13-34-09_369ca.png" width="500" title="TORNTPOWER – 21 March 2024" alt="TORNTPOWER – 21 March 2024" />
   <img src="setup_images/282-ANUP_2026-02-12_08-32-58_16d8e.png" width="500" title="ANUP – 18 April 2024" alt="ANUP – 18 April 2024" />
+  <img src="setup_images/283-GULFOILLUB_2026-02-12_11-48-09_c3f6f.png" width="500" title="GULFOILLUB – 09 January 2024" alt="GULFOILLUB – 09 January 2024" />
 </p>
