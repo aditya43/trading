@@ -294,4 +294,5 @@
   <img src="setup_images/288-GVT&D_2026-02-12_17-53-46_86afc.png" width="500" title="GVT&D – 30 January 2024" alt="GVT&D – 30 January 2024" />
   <img src="setup_images/289-TRANSWORLD_2026-02-12_21-06-19_f9f19.png" width="500" title="TRANSWORLD – 25 November 2024" alt="TRANSWORLD – 25 November 2024" />
   <img src="setup_images/290-NITIRAJ_2026-02-12_21-10-48_96cfb.png" width="500" title="NITIRAJ – 29 April 2024" alt="NITIRAJ – 29 April 2024" />
+  <img src="setup_images/291-JMFINANCIL_2026-02-12_21-13-22_76a71.png" width="500" title="JMFINANCIL – 28 August 2024" alt="JMFINANCIL – 28 August 2024" />
 </p>
