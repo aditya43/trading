@@ -3,7 +3,10 @@
 - **Exit Date:** 13 February 2026
 - **Exit Reason:** SL Hit
 - **Pivot Type:** 3 Candle
-- **P/L:**
+- **Buy Price (Actual):** 113.849
+- **Quantity:** 876
+- **Sell Price (Actual):** 110.653
+- **P/L (Actual):** -2.80723%
 
 ----
 
