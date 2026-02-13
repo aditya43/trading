@@ -3,12 +3,16 @@
 - **Exit Date:** 13 February 2026
 - **Exit Reason:** Trailing SL Hit
 - **Pivot Type:** 3 Candle
-- **P/L:**
+- **Buy Price (Actual):** 640.803
+- **Quantity:** 155
+- **Sell Price (Actual):** 655.264
+- **P/L (Actual):** 2.2567%
 
 ----
 
 ## Trade Management Updates
 - *[12 Feb 2026] SL Moved to new 3-Candle Pivot low. Reasons: Market breadth looking weak and a new 3-Candle Pivot formed.*
+- *[13 Feb 2026] Trailing SL Hit. Market breadth also became very weak.*
 
 ----
 
