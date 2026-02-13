@@ -6,7 +6,7 @@
 - **Buy Price (Actual):** 640.803
 - **Quantity:** 155
 - **Sell Price (Actual):** 655.264
-- **P/L (Actual):** 2.2567%
+- **P/L (Actual):** +2.2567%
 
 ----
 
