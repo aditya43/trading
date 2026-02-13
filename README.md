@@ -10,10 +10,10 @@ Track record of all my trades with detailed entry/exit information, pivot analys
 
 ### Trade Summary
 
-| Sr. No. | Symbol       | Entry Date  | Exit Date   | Exit Reason   | P/L (%)  | Report                               |
-| :------ | :----------- | :---------- | :---------- | :------------ | :--- | :----------------------------------- |
-| 2       | **GKSL**     | 12 Feb 2026 | 13 Feb 2026 | 🔴 **SL Hit**  | <span style="color: #ff4d4f; font-weight: 600;"> -2.80723% </span>  | [🔍 Details](my_trades/02-12Feb2026/) |
-| 1       | **GRAPHITE** | 10 Feb 2026 | 13 Feb 2026 | 🟢 **TSL Hit** | <span style="color: #52c41a; font-weight: 600;"> +2.2567% </span>  | [🔍 Details](my_trades/01-10Feb2026/) |
+| Sr. No. | Symbol       | Entry Date  | Exit Date   | Exit Reason   | P/L (%)     | Report                               |
+| :------ | :----------- | :---------- | :---------- | :------------ | :---------- | :----------------------------------- |
+| 2       | **GKSL**     | 12 Feb 2026 | 13 Feb 2026 | 🔴 **SL Hit**  | ❌ -2.80723% | [🔍 Details](my_trades/02-12Feb2026/) |
+| 1       | **GRAPHITE** | 10 Feb 2026 | 13 Feb 2026 | 🟢 **TSL Hit** | ✅ +2.2567%  | [🔍 Details](my_trades/01-10Feb2026/) |
 
 ### Exit Reason Legend
 
