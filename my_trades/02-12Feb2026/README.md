@@ -1,7 +1,7 @@
 ## GKSL - 12 February 2026 (IPO Setup)
 - **Entry Date:** 12 February 2026
 - **Exit Date:** 13 February 2026
-- **Exit Reason:** Trailing SL Hit
+- **Exit Reason:** SL Hit
 - **Pivot Type:** 3 Candle
 - **P/L:**
 
