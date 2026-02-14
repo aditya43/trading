@@ -10,6 +10,11 @@
 
 ----
 
+## Exit (SL Hit):
+<img src="Exit-GKSL_2026-02-14_12-17-34_8f9ee.png" title="GKSL - 13 February 2026" alt="GKSL - 13 February 2026" />
+
+----
+
 ## Entry Setup:
 <img src="Entry-Setup-GKSL_2026-02-11.png" title="GKSL - 12 February 2026" alt="GKSL - 12 February 2026" />
 
