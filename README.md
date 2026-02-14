@@ -4,6 +4,15 @@
 
 ---
 
+## 📚 Deep Dive Studies
+
+In-depth technical analysis and setup studies for various stocks and trading opportunities.
+
+- [📊 2024 Deep Dive Studies](deep_dive/2024/) *(Work In Progress)*
+- [📊 2025 Deep Dive Studies](deep_dive/2025/)
+
+---
+
 ## 📈 My Trades
 
 Track record of all my trades with detailed entry/exit information, pivot analysis, and performance metrics.
@@ -14,6 +23,16 @@ Track record of all my trades with detailed entry/exit information, pivot analys
 | :-- | :----------- | :---------- | :---------- | :------------ | :---------- | :----------------------------------- |
 | 2   | **GKSL**     | 12 Feb 2026 | 13 Feb 2026 | 🔴 **SL Hit**  | 🔴 -2.80723% | [🔍 Details](my_trades/02-12Feb2026/) |
 | 1   | **GRAPHITE** | 10 Feb 2026 | 13 Feb 2026 | 🟢 **TSL Hit** | 🟢 +2.2567%  | [🔍 Details](my_trades/01-10Feb2026/) |
+
+### Exit Reason Legend
+
+Icon | Status         | Description                                    |
+:--- | :------------- | :--------------------------------------------- |
+🔴    | **SL Hit**     | Stop Loss triggered                            |
+🟢    | **TSL Hit**    | Trailing Stop Loss triggered (profitable exit) |
+🟢    | **Target Hit** | Price target achieved                          |
+
+---
 
 ## 📄 License
 
