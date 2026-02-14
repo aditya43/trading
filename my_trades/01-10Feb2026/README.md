@@ -12,7 +12,12 @@
 
 ## Trade Management Updates
 - *[12 Feb 2026] SL Moved to new 3-Candle Pivot low. Reasons: Market breadth looking weak and a new 3-Candle Pivot formed.*
-- *[13 Feb 2026] Trailing SL Hit. Market breadth also became very weak.*
+- *[13 Feb 2026] Trailing SL Hit. Market breadth also became very weak confirming this is still a choppy market.*
+
+----
+
+## Exit (Trailing SL Hit):
+<img src="Exit-GRAPHITE_2026-02-14_12-19-56_a3ca1.png" title="GRAPHITE - 13 February 2026" alt="GRAPHITE - 13 February 2026" />
 
 ----
 
