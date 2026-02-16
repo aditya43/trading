@@ -302,4 +302,5 @@
   <img src="setup_images/296-TEGA_2026-02-16_19-06-31_7fc4c.png" width="500" title="TEGA – 28 March 2024" alt="TEGA – 28 March 2024" />
   <img src="setup_images/297-MAXESTATES_2026-02-16_19-12-29_32a23.png" width="500" title="MAXESTATES – 2024-04-24" alt="MAXESTATES – 2024-04-24" />
   <img src="setup_images/298-AEROFLEX_2026-02-16_19-21-32_0c1dd.png" width="500" title="AEROFLEX – 22 November 2024" alt="AEROFLEX – 22 November 2024" />
+  <img src="setup_images/299-GOKUL_2026-02-16_19-38-29_f6792.png" width="500" title="GOKUL – 16 August 2024" alt="GOKUL – 16 August 2024" />
 </p>
