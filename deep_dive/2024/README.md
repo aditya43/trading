@@ -308,4 +308,5 @@
   <img src="setup_images/302-SALZERELEC_2026-02-16_21-16-34_24395.png" width="500" title="SALZERELEC – 15 March 2024" alt="SALZERELEC – 15 March 2024" />
   <img src="setup_images/303-GRPLTD_2026-02-16_21-21-08_87ee3.png" width="500" title="GRPLTD – 08 August 2024" alt="GRPLTD – 08 August 2024" />
   <img src="setup_images/304-ICEMAKE_2026-02-16_21-28-21_4cf86.png" width="500" title="ICEMAKE – 11 June 2024" alt="ICEMAKE – 11 June 2024" />
+  <img src="setup_images/305-HARRMALAYA_2026-02-16_21-35-37_7e5d0.png" width="500" title="HARRMALAYA – 05 December 2024" alt="HARRMALAYA – 05 December 2024" />
 </p>
