@@ -298,4 +298,5 @@
   <img src="setup_images/292-LLOYDSENGG_2026-02-13_12-26-17_0e854.png" width="500" title="LLOYDSENGG – 18 April 2024" alt="LLOYDSENGG – 18 April 2024" />
   <img src="setup_images/293-PRECWIRE_2026-02-14_18-07-49_d77f2.png" width="500" title="PRECWIRE – 12 August 2024" alt="PRECWIRE – 12 August 2024" />
   <img src="setup_images/294-SCHNEIDER_2026-02-14_18-10-21_5b936.png" width="500" title="SCHNEIDER – 22 February 2024" alt="SCHNEIDER – 22 February 2024" />
+  <img src="setup_images/295-UMAEXPORTS_2026-02-16_17-11-33_4afc3.png" width="500" title="UMAEXPORTS – 09 April 2024" alt="UMAEXPORTS – 09 April 2024" />
 </p>
