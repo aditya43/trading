@@ -304,4 +304,5 @@
   <img src="setup_images/298-AEROFLEX_2026-02-16_19-21-32_0c1dd.png" width="500" title="AEROFLEX – 22 November 2024" alt="AEROFLEX – 22 November 2024" />
   <img src="setup_images/299-GOKUL_2026-02-16_19-38-29_f6792.png" width="500" title="GOKUL – 16 August 2024" alt="GOKUL – 16 August 2024" />
   <img src="setup_images/300-RAILTEL_2026-02-16_19-42-26_3b7ec.png" width="500" title="RAILTEL – 01 July 2024" alt="RAILTEL – 01 July 2024" />
+  <img src="setup_images/301-VOLTAMP_2026-02-16_21-12-37_1a450.png" width="500" title="VOLTAMP – 10 January 2024" alt="VOLTAMP – 10 January 2024" />
 </p>
