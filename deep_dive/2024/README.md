@@ -307,4 +307,5 @@
   <img src="setup_images/301-VOLTAMP_2026-02-16_21-12-37_1a450.png" width="500" title="VOLTAMP – 10 January 2024" alt="VOLTAMP – 10 January 2024" />
   <img src="setup_images/302-SALZERELEC_2026-02-16_21-16-34_24395.png" width="500" title="SALZERELEC – 15 March 2024" alt="SALZERELEC – 15 March 2024" />
   <img src="setup_images/303-GRPLTD_2026-02-16_21-21-08_87ee3.png" width="500" title="GRPLTD – 08 August 2024" alt="GRPLTD – 08 August 2024" />
+  <img src="setup_images/304-ICEMAKE_2026-02-16_21-28-21_4cf86.png" width="500" title="ICEMAKE – 11 June 2024" alt="ICEMAKE – 11 June 2024" />
 </p>
