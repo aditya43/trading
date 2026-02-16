@@ -300,4 +300,5 @@
   <img src="setup_images/294-SCHNEIDER_2026-02-14_18-10-21_5b936.png" width="500" title="SCHNEIDER – 22 February 2024" alt="SCHNEIDER – 22 February 2024" />
   <img src="setup_images/295-UMAEXPORTS_2026-02-16_17-11-33_4afc3.png" width="500" title="UMAEXPORTS – 09 April 2024" alt="UMAEXPORTS – 09 April 2024" />
   <img src="setup_images/296-TEGA_2026-02-16_19-06-31_7fc4c.png" width="500" title="TEGA – 28 March 2024" alt="TEGA – 28 March 2024" />
+  <img src="setup_images/297-MAXESTATES_2026-02-16_19-12-29_32a23.png" width="500" title="MAXESTATES – 2024-04-24" alt="MAXESTATES – 2024-04-24" />
 </p>
