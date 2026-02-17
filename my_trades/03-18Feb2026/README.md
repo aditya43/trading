@@ -21,4 +21,4 @@
 ----
 
 ## Market Breadth on 11 February 2026:
-<img src="Market-Breadth.png" title="Market Breadth on 11 February 2026" alt="Market Breadth on 11 February 2026" />
+<img src="Market-Breadth.png" title="Market Breadth on 17 February 2026" alt="Market Breadth on 17 February 2026" />
