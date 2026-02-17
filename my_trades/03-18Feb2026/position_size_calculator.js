@@ -1,7 +1,7 @@
 // ===== INPUTS =====
 const accountSize = 100000;        // Set account size
-const buyTriggerPrice = 63.55;   // <-- Set Buy trigger price
-const sl = 61.82;                // <-- Set SL price
+const buyTriggerPrice = 63.55;   // <-- Set Buy trigger price. Put exact Pivot High price here.
+const sl = 61.82;                // <-- Set SL price. Put exact Pivot Low price here.
 
 const TICK_SIZE = 0.1;
 
