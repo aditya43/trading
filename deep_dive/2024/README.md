@@ -310,4 +310,5 @@
   <img src="setup_images/304-ICEMAKE_2026-02-16_21-28-21_4cf86.png" width="500" title="ICEMAKE – 11 June 2024" alt="ICEMAKE – 11 June 2024" />
   <img src="setup_images/305-HARRMALAYA_2026-02-16_21-35-37_7e5d0.png" width="500" title="HARRMALAYA – 05 December 2024" alt="HARRMALAYA – 05 December 2024" />
   <img src="setup_images/306-IRCON_2026-02-17_12-14-51_f1501.png" width="500" title="IRCON – 01 July 2024" alt="IRCON – 01 July 2024" />
+  <img src="setup_images/307-LOVABLE_2026-02-17_14-41-04_c1f6a.png" width="500" title="LOVABLE – 16 August 2024" alt="LOVABLE – 16 August 2024" />
 </p>
