@@ -11,7 +11,7 @@
 ----
 
 ## Trade Management Updates
-- *[17 Feb 2026] GTT Placed. Market breadth seems to recover with good thrust coming back into rally. Used Buy Limit Price With 0.5% Slippage.*
+- *[17 Feb 2026] GTT Placed. Market breadth seems to recover with good thrust coming back into rally. NNH-NNL criteria not met (-0.04). Used Buy Limit Price With 0.5% Slippage.*
 
 ----
 
