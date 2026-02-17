@@ -10,6 +10,12 @@
 
 ----
 
+## Trade Management Updates
+- *[13 Feb 2026] SL Hit.*
+- *[11 Feb 2026] GTT Placed. Market Breadth criteria not met. Previous trade GRAPHITE - 10 February 2026 became risk free now. Catalyst: India - US Trade Deal News.*
+
+----
+
 ## Exit (SL Hit):
 <img src="Exit-GKSL_2026-02-14_12-17-34_8f9ee.png" title="GKSL - 13 February 2026" alt="GKSL - 13 February 2026" />
 
