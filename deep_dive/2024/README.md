@@ -312,4 +312,5 @@
   <img src="setup_images/306-IRCON_2026-02-17_12-14-51_f1501.png" width="500" title="IRCON – 01 July 2024" alt="IRCON – 01 July 2024" />
   <img src="setup_images/307-LOVABLE_2026-02-17_14-41-04_c1f6a.png" width="500" title="LOVABLE – 16 August 2024" alt="LOVABLE – 16 August 2024" />
   <img src="setup_images/308-VEEDOL_2026-02-17_14-46-10_78e0b.png" width="500" title="VEEDOL – 14 June 2024" alt="VEEDOL – 14 June 2024" />
+  <img src="setup_images/309-SIEMENS_2026-02-17_14-52-59_ab922.png" width="500" title="SIEMENS – 26 April 2024" alt="SIEMENS – 26 April 2024" />
 </p>
