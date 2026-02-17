@@ -11,8 +11,9 @@
 ----
 
 ## Trade Management Updates
-- *[12 Feb 2026] SL Moved to new 3-Candle Pivot low. Reasons: Market breadth looking weak and a new 3-Candle Pivot formed.*
 - *[13 Feb 2026] Trailing SL Hit. Market breadth also became very weak confirming this is still a choppy market.*
+- *[12 Feb 2026] SL Moved to new 3-Candle Pivot low. Reasons: Market breadth looking weak and a new 3-Candle Pivot formed.*
+- *[09 Feb 2026] GTT Placed. Market Breadth looks good. Catalyst: India - US Trade Deal News.*
 
 ----
 
