@@ -3,7 +3,7 @@
 - **Exit Date:**
 - **Exit Reason:**
 - **Pivot Type:** 3 Candle
-- **Buy Price (Actual):**
+- **Buy Price (Actual):** 63.60
 - **Quantity:** 1558
 - **Sell Price (Actual):**
 - **P/L (Actual):**
@@ -11,6 +11,7 @@
 ----
 
 ## Trade Management Updates
+- *[18 Feb 2026] Entry triggered.*
 - *[17 Feb 2026] GTT Placed. Market breadth seems to recover with good thrust coming back into rally. NNH-NNL criteria not met (-0.04). Used Buy Limit Price With 0.5% Slippage.*
 
 ----
