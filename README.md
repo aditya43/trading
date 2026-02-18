@@ -19,18 +19,19 @@ Track record of all my trades with detailed entry/exit information, pivot analys
 
 ### Trade Summary
 
-| Sr. | Symbol       | Entry Date  | Exit Date   | Exit Reason   | P/L (%)     | Report                               |
-| :-- | :----------- | :---------- | :---------- | :------------ | :---------- | :----------------------------------- |
-| 2   | **GKSL**     | 12 Feb 2026 | 13 Feb 2026 | 🔴 **SL Hit**  | 🔴 -2.80723% | [🔍 Details](my_trades/02-12Feb2026/) |
-| 1   | **GRAPHITE** | 10 Feb 2026 | 13 Feb 2026 | 🟢 **TSL Hit** | 🟢 +2.2567%  | [🔍 Details](my_trades/01-10Feb2026/) |
+| Sr.  | Symbol       | Entry Date  | Exit Date   | Exit Reason   | P/L (%)     | Report                               |
+| :--- | :----------- | :---------- | :---------- | :------------ | :---------- | :----------------------------------- |
+| 3    | **IFCI**     | 18 Feb 2026 |             |               |             | [🔍 Details](my_trades/03-18Feb2026/) |
+| 2    | **GKSL**     | 12 Feb 2026 | 13 Feb 2026 | 🔴 **SL Hit**  | 🔴 -2.80723% | [🔍 Details](my_trades/02-12Feb2026/) |
+| 1    | **GRAPHITE** | 10 Feb 2026 | 13 Feb 2026 | 🟢 **TSL Hit** | 🟢 +2.2567%  | [🔍 Details](my_trades/01-10Feb2026/) |
 
 ### Exit Reason Legend
 
-Icon | Status         | Description                                    |
-:--- | :------------- | :--------------------------------------------- |
-🔴    | **SL Hit**     | Stop Loss triggered                            |
-🟢    | **TSL Hit**    | Trailing Stop Loss triggered (profitable exit) |
-🟢    | **Target Hit** | Price target achieved                          |
+| Icon | Status         | Description                                    |
+| :--- | :------------- | :--------------------------------------------- |
+| 🔴    | **SL Hit**     | Stop Loss triggered                            |
+| 🟢    | **TSL Hit**    | Trailing Stop Loss triggered (profitable exit) |
+| 🟢    | **Target Hit** | Price target achieved                          |
 
 ---
 
