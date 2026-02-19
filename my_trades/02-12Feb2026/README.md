@@ -11,8 +11,8 @@
 ----
 
 ## Trade Management Updates
-- *[13 Feb 2026] SL Hit.*
-- *[11 Feb 2026] GTT Placed. Market Breadth criteria not met. Previous trade GRAPHITE - 10 February 2026 became risk free now. Catalyst: India - US Trade Deal News.*
+- ***[13 Feb 2026]** SL Hit.*
+- ***[11 Feb 2026]** GTT Placed. Market Breadth criteria not met. Previous trade GRAPHITE - 10 February 2026 became risk free now. Catalyst: India - US Trade Deal News.*
 
 ----
 
