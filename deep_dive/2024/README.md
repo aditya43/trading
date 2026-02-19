@@ -320,4 +320,5 @@
   <img src="setup_images/314-TERASOFT_2026-02-19_10-20-22_b7e94.png" width="500" title="TERASOFT – 2024-01-12" alt="TERASOFT – 2024-01-12" />
   <img src="setup_images/315-GRWRHITECH_2026-02-19_10-50-29_03e34.png" width="500" title="GRWRHITECH – 21 June 2024" alt="GRWRHITECH – 21 June 2024" />
   <img src="setup_images/316-UNIONBANK_2026-02-19_10-55-22_3b39c.png" width="500" title="UNIONBANK – 01 January 2024" alt="UNIONBANK – 01 January 2024" />
+  <img src="setup_images/317-NRL_2026-02-19_11-04-50_fcd34.png" width="500" title="NRL – 04 September 2024" alt="NRL – 04 September 2024" />
 </p>
