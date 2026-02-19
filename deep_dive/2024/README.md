@@ -316,4 +316,5 @@
   <img src="setup_images/310-KMSUGAR_2026-02-18_08-24-35_57db9.png" width="500" title="KMSUGAR – 10 June 2024" alt="KMSUGAR – 10 June 2024" />
   <img src="setup_images/311-NFL_2026-02-18_12-16-41_a6fcd.png" width="500" title="NFL – 15 January 2024" alt="NFL – 15 January 2024" />
   <img src="setup_images/312-V2RETAIL_2026-02-19_08-42-54_e5e29.png" width="500" title="V2RETAIL – 19 September 2024" alt="V2RETAIL – 19 September 2024" />
+  <img src="setup_images/313-TEJASNET_2026-02-19_10-16-40_0d375.png" width="500" title="TEJASNET – 06 June 2024" alt="TEJASNET – 06 June 2024" />
 </p>
