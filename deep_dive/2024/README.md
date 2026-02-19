@@ -321,4 +321,5 @@
   <img src="setup_images/315-GRWRHITECH_2026-02-19_10-50-29_03e34.png" width="500" title="GRWRHITECH – 21 June 2024" alt="GRWRHITECH – 21 June 2024" />
   <img src="setup_images/316-UNIONBANK_2026-02-19_10-55-22_3b39c.png" width="500" title="UNIONBANK – 01 January 2024" alt="UNIONBANK – 01 January 2024" />
   <img src="setup_images/317-NRL_2026-02-19_11-04-50_fcd34.png" width="500" title="NRL – 04 September 2024" alt="NRL – 04 September 2024" />
+  <img src="setup_images/318-SUMMITSEC_2026-02-19_13-08-24_8f95e.png" width="500" title="SUMMITSEC – 10 October 2024" alt="SUMMITSEC – 10 October 2024" />
 </p>
