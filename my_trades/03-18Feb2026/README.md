@@ -11,8 +11,8 @@
 ----
 
 ## Trade Management Updates
-- *[18 Feb 2026] Entry triggered.*
-- *[17 Feb 2026] GTT Placed. Market breadth seems to recover with good thrust coming back into rally. NNH-NNL criteria not met (-0.04). Used Buy Limit Price With 0.5% Slippage.*
+- ***[18 Feb 2026]** Entry triggered.*
+- ***[17 Feb 2026]** GTT Placed. Market breadth seems to recover with good thrust coming back into rally. NNH-NNL criteria not met (-0.04). Used Buy Limit Price With 0.5% Slippage.*
 
 ----
 
