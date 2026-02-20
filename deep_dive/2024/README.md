@@ -322,5 +322,5 @@
   <img src="setup_images/316-UNIONBANK_2026-02-19_10-55-22_3b39c.png" width="500" title="UNIONBANK – 01 January 2024" alt="UNIONBANK – 01 January 2024" />
   <img src="setup_images/317-NRL_2026-02-19_11-04-50_fcd34.png" width="500" title="NRL – 04 September 2024" alt="NRL – 04 September 2024" />
   <img src="setup_images/318-SUMMITSEC_2026-02-19_13-08-24_8f95e.png" width="500" title="SUMMITSEC – 10 October 2024" alt="SUMMITSEC – 10 October 2024" />
-  <img src="setup_images/319-QUICKHEAL_2026-02-19_13-11-51_b3a9f.png" width="500" title="QUICKHEAL – 2024-08-16" alt="QUICKHEAL – 2024-08-16" />
+  <img src="setup_images/319-QUICKHEAL_2026-02-19_13-11-51_b3a9f.png" width="500" title="QUICKHEAL – 16 August 2024" alt="QUICKHEAL – 16 August 2024" />
 </p>
