@@ -325,4 +325,5 @@
   <img src="setup_images/319-QUICKHEAL_2026-02-19_13-11-51_b3a9f.png" width="500" title="QUICKHEAL – 16 August 2024" alt="QUICKHEAL – 16 August 2024" />
   <img src="setup_images/320-KALYANKJIL_2026-02-20_11-26-40_c104a.png" width="500" title="KALYANKJIL – 30 August 2024" alt="KALYANKJIL – 30 August 2024" />
   <img src="setup_images/321-ARE&M_2026-02-20_11-30-48_9f3b0.png" width="500" title="ARE&M – 18 June 2024" alt="ARE&M – 18 June 2024" />
+  <img src="setup_images/322-POCL_2026-02-23_12-43-14_32293.png" width="500" title="POCL – 2024-07-31" alt="POCL – 2024-07-31" />
 </p>
