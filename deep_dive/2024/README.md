@@ -332,4 +332,5 @@
   <img src="setup_images/326-CHENNPETRO_2026-02-23_18-04-22_c26c8.png" width="500" title="CHENNPETRO – 02 January 2024" alt="CHENNPETRO – 02 January 2024" />
   <img src="setup_images/327-WEL_2026-02-23_18-27-46_ab2e9.png" width="500" title="WEL – 31 July 2024" alt="WEL – 31 July 2024" />
   <img src="setup_images/328-BEML_2026-02-23_18-35-56_d80a4.png" width="500" title="BEML – 29 January 2024" alt="BEML – 29 January 2024" />
+  <img src="setup_images/329-ASTRAZEN_2026-02-23_18-45-30_fd603.png" width="500" title="ASTRAZEN – 08 January 2024" alt="ASTRAZEN – 08 January 2024" />
 </p>
