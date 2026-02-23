@@ -334,4 +334,5 @@
   <img src="setup_images/328-BEML_2026-02-23_18-35-56_d80a4.png" width="500" title="BEML – 29 January 2024" alt="BEML – 29 January 2024" />
   <img src="setup_images/329-ASTRAZEN_2026-02-23_18-45-30_fd603.png" width="500" title="ASTRAZEN – 08 January 2024" alt="ASTRAZEN – 08 January 2024" />
   <img src="setup_images/330-VINDHYATEL_2026-02-23_18-58-17_97f83.png" width="500" title="VINDHYATEL – 15 July 2024" alt="VINDHYATEL – 15 July 2024" />
+  <img src="setup_images/331-DALMIASUG_2026-02-23_19-12-39_abd95.png" width="500" title="DALMIASUG – 11 September 2024" alt="DALMIASUG – 11 September 2024" />
 </p>
