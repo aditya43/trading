@@ -327,4 +327,5 @@
   <img src="setup_images/321-ARE&M_2026-02-20_11-30-48_9f3b0.png" width="500" title="ARE&M – 18 June 2024" alt="ARE&M – 18 June 2024" />
   <img src="setup_images/322-POCL_2026-02-23_12-43-14_32293.png" width="500" title="POCL – 31 July 2024" alt="POCL – 31 July 2024" />
   <img src="setup_images/323-SCILAL_2026-02-23_13-06-57_acf31.png" width="500" title="SCILAL – 04 July 2024" alt="SCILAL – 04 July 2024" />
+  <img src="setup_images/324-BASF_2026-02-23_15-49-36_a8f8b.png" width="500" title="BASF – 26 September 2024" alt="BASF – 26 September 2024" />
 </p>
