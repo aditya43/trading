@@ -330,4 +330,5 @@
   <img src="setup_images/324-BASF_2026-02-23_15-49-36_a8f8b.png" width="500" title="BASF – 26 September 2024" alt="BASF – 26 September 2024" />
   <img src="setup_images/325-KALYANKJIL_2026-02-23_16-00-09_6f7d6.png" width="500" title="KALYANKJIL – 09 July 2024" alt="KALYANKJIL – 09 July 2024" />
   <img src="setup_images/326-CHENNPETRO_2026-02-23_18-04-22_c26c8.png" width="500" title="CHENNPETRO – 02 January 2024" alt="CHENNPETRO – 02 January 2024" />
+  <img src="setup_images/327-WEL_2026-02-23_18-27-46_ab2e9.png" width="500" title="WEL – 31 July 2024" alt="WEL – 31 July 2024" />
 </p>
