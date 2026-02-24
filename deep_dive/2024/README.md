@@ -340,4 +340,5 @@
   <img src="setup_images/334-JPOLYINVST_2026-02-24_13-48-21_3bc28.png" width="500" title="JPOLYINVST – 21 June 2024" alt="JPOLYINVST – 21 June 2024" />
   <img src="setup_images/335-BALUFORGE_2026-02-24_19-16-30_2a7c7.png" width="500" title="BALUFORGE – 01 July 2024" alt="BALUFORGE – 01 July 2024" />
   <img src="setup_images/336-TITAGARH_2026-02-24_20-23-09_e46d5.png" width="500" title="TITAGARH – 27 May 2024" alt="TITAGARH – 27 May 2024" />
+  <img src="setup_images/337-AEGISLOG_2026-02-24_20-38-36_241c0.png" width="500" title="AEGISLOG – 30 December 2024" alt="AEGISLOG – 30 December 2024" />
 </p>
