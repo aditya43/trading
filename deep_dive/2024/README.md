@@ -337,4 +337,5 @@
   <img src="setup_images/331-DALMIASUG_2026-02-23_19-12-39_abd95.png" width="500" title="DALMIASUG – 11 September 2024" alt="DALMIASUG – 11 September 2024" />
   <img src="setup_images/332-JSWHL_2026-02-23_19-16-39_6fe3c.png" width="500" title="JSWHL – 26 December 2024" alt="JSWHL – 26 December 2024" />
   <img src="setup_images/333-BALMLAWRIE_2026-02-24_11-48-27_8e71c.png" width="500" title="BALMLAWRIE – 09 January 2024" alt="BALMLAWRIE – 09 January 2024" />
+  <img src="setup_images/334-JPOLYINVST_2026-02-24_13-48-21_3bc28.png" width="500" title="JPOLYINVST – 21 June 2024" alt="JPOLYINVST – 21 June 2024" />
 </p>
