@@ -342,4 +342,5 @@
   <img src="setup_images/336-TITAGARH_2026-02-24_20-23-09_e46d5.png" width="500" title="TITAGARH – 27 May 2024" alt="TITAGARH – 27 May 2024" />
   <img src="setup_images/337-AEGISLOG_2026-02-24_20-38-36_241c0.png" width="500" title="AEGISLOG – 30 December 2024" alt="AEGISLOG – 30 December 2024" />
   <img src="setup_images/339-GESHIP_2026-02-25_17-44-00_f8e57.png" width="500" title="GESHIP – 26 June 2024" alt="GESHIP – 26 June 2024" />
+  <img src="setup_images/340-ZUARIIND_2026-02-25_19-58-20_b1ee2.png" width="500" title="ZUARIIND – 19 February 2024" alt="ZUARIIND – 19 February 2024" />
 </p>
