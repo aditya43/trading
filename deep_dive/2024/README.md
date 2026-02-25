@@ -343,4 +343,5 @@
   <img src="setup_images/337-AEGISLOG_2026-02-24_20-38-36_241c0.png" width="500" title="AEGISLOG – 30 December 2024" alt="AEGISLOG – 30 December 2024" />
   <img src="setup_images/339-GESHIP_2026-02-25_17-44-00_f8e57.png" width="500" title="GESHIP – 26 June 2024" alt="GESHIP – 26 June 2024" />
   <img src="setup_images/340-ZUARIIND_2026-02-25_19-58-20_b1ee2.png" width="500" title="ZUARIIND – 19 February 2024" alt="ZUARIIND – 19 February 2024" />
+  <img src="setup_images/341-SOLEX_2026-02-25_20-03-20_5f132.png" width="500" title="SOLEX – 27 September 2024" alt="SOLEX – 27 September 2024" />
 </p>
