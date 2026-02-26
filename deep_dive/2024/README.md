@@ -345,4 +345,5 @@
   <img src="setup_images/340-ZUARIIND_2026-02-25_19-58-20_b1ee2.png" width="500" title="ZUARIIND – 19 February 2024" alt="ZUARIIND – 19 February 2024" />
   <img src="setup_images/341-SOLEX_2026-02-25_20-03-20_5f132.png" width="500" title="SOLEX – 27 September 2024" alt="SOLEX – 27 September 2024" />
   <img src="setup_images/342-TI_2026-02-26_18-17-52_9c6d9.png" width="500" title="TI – 21 November 2024" alt="TI – 21 November 2024" />
+  <img src="setup_images/343-SUBEXLTD_2026-02-26_18-26-24_135ce.png" width="500" title="SUBEXLTD – 04 January 2024" alt="SUBEXLTD – 04 January 2024" />
 </p>
