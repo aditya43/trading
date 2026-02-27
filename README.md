@@ -8,6 +8,7 @@
 
 In-depth technical analysis and setup studies for various stocks and trading opportunities.
 
+- [📊 2019 Deep Dive Studies](deep_dive/2019/) *(WORK IN PROGRESS)*
 - [📊 2024 Deep Dive Studies](deep_dive/2024/)
 - [📊 2025 Deep Dive Studies](deep_dive/2025/)
 
